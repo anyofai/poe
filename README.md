@@ -10,6 +10,8 @@
 
 Poe是由Quora推出的人工智能聊天平台，其名字来源于“Platform of Engagement”，旨在为用户提供一个一站式的AI互动平台。Poe汇集了多个主流的AI聊天机器人，包括GPT-4、Claude 3.5、Sage、Dragonfly、NeevaAI等，涵盖了目前市面上最强大的AI模型。通过Poe，用户可以在一个简洁统一的界面中轻松切换不同的AI模型，无需分别访问多个服务商或平台，大大简化了使用流程。
 
+![最新Poe订阅教程：国内如何充值购买Poe会员帐号？](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/%E6%9C%80%E6%96%B0Poe%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B%EF%BC%9A%E5%9B%BD%E5%86%85%E5%A6%82%E4%BD%95%E5%85%85%E5%80%BC%E8%B4%AD%E4%B9%B0Poe%E4%BC%9A%E5%91%98%E5%B8%90%E5%8F%B7.jpg)
+
 与传统的AI工具相比，Poe最大的优势在于它的一站式服务能力和多模型集成。用户不仅可以免费体验多个AI模型，还可以通过订阅Poe会员解锁更高性能的服务，例如自由使用GPT-4和Claude 3.5。此外，Poe还支持用户自定义机器人，允许用户根据自己的需求调整机器人的行为和响应，从而满足更加个性化的使用场景。
 
 **Poe的核心特点包括：**
@@ -53,15 +55,23 @@ Poe的订阅计划还具备较高的灵活性，用户可以随时在会员界�
 
 如果你是第一次使用Poe，那么可以选择“使用Google继续”或“使用Apple继续”直接登录，也可以使用电子邮箱注册并登录。（注意：使用邮箱注册Poe帐号时，建议使用海外邮箱，如Gmail或Outlook；尽量避免使用国内邮箱，如QQ邮箱或163邮箱，以提高注册成功率。）
 
+![最新Poe订阅教程，国内充值购买Poe会员帐号第一步：打开Poe官网并登录](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85%EF%BC%9A%E6%89%93%E5%BC%80Poe%E5%AE%98%E7%BD%91%E5%B9%B6%E7%99%BB%E5%BD%95.png)
+
 ### 第二步：点击左侧导航栏中的“订阅”。
+
+![最新Poe订阅教程，国内充值购买Poe会员帐号第二步：点击左侧导航栏中的“订阅”](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%B4%AD%E4%B9%B0%EF%BC%9A%E7%82%B9%E5%87%BB%E5%B7%A6%E4%BE%A7%E5%AF%BC%E8%88%AA%E6%A0%8F%E4%B8%AD%E7%9A%84%E8%AE%A2%E9%98%85.png)
 
 ### 第三步：选择“按年计费”或“按月计费”，然后点击“订阅Poe”按钮。
 
 注意：下图中显示的是Poe的年费为299.98新加坡元（SGD），折算成美元之后就是199.99美元。
 
+![最新Poe订阅教程，国内充值购买Poe会员帐号第三步：选择“按年计费”或“按月计费”，然后点击“订阅Poe”按钮](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E5%85%85%E5%80%BC%EF%BC%9A%E9%80%89%E6%8B%A9%E6%8C%89%E5%B9%B4%E8%AE%A1%E8%B4%B9%E6%88%96%E6%8C%89%E6%9C%88%E8%AE%A1%E8%B4%B9%E5%B9%B6%E7%82%B9%E5%87%BB%E8%AE%A2%E9%98%85Poe.png)
+
 ### 第四步：进入Poe订阅费用支付页面。
 
 注意：进行到这一步后，需要暂停操作！因为国内信用卡无法支付Poe订阅费用，我们需要先获取一张海外虚拟信用卡。接下来，我们将手把手教你如何快速申请一张<a href="https://bewildcard.com/i/ANYOFAI">WildCard虚拟信用卡</a>。
+
+![最新Poe订阅教程，国内充值购买Poe会员帐号第四步：进入Poe订阅费用支付页面](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85%EF%BC%9A%E8%BF%9B%E5%85%A5Poe%E8%AE%A2%E9%98%85%E8%B4%B9%E7%94%A8%E6%94%AF%E4%BB%98%E9%A1%B5%E9%9D%A2.png)
 
 ### 第五步：打开WildCard官网，并选择“使用手机验证码登录”。
 
@@ -69,7 +79,11 @@ Poe的订阅计划还具备较高的灵活性，用户可以随时在会员界�
 
 注意：WildCard是一款专业的虚拟信用卡服务平台，旨在为用户提供安全、便捷的支付体验。该平台采用一次性随机生成的卡号，结合高级加密技术，确保用户支付安全和个人信息保护。此外，WildCard支持多种海外服务，如ChatGPT、Claude订阅服务，以及Apple App Store、Google Play等支付需求，能够满足用户的多样化需求。我们已经使用WildCard虚拟信用卡大半年了，目前没有出现任何问题。
 
+![最新Poe订阅教程，国内充值购买Poe会员帐号第五步：打开WildCard官网，并选择“使用手机验证码登录”](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%B4%AD%E4%B9%B0%EF%BC%9A%E6%89%93%E5%BC%80WildCard%E5%AE%98%E7%BD%91%E5%B9%B6%E7%99%BB%E5%BD%95.png)
+
 ### 第六步：进入WildCard后台，点击“我的卡片”，然后选择“去开通”。
+
+![最新Poe订阅教程，国内购买充值Poe会员帐号第六步：进入WildCard后台，点击“我的卡片”，然后选择“去开通”](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E5%85%85%E5%80%BC%EF%BC%9A%E5%88%86%E5%88%AB%E7%82%B9%E5%87%BB%E6%88%91%E7%9A%84%E5%8D%A1%E7%89%87%E5%92%8C%E5%8E%BB%E5%BC%80%E9%80%9A.jpg)
 
 ### 第七步：选择服务年限，输入邀请码“ANYOFAI”，并支付开卡费。
 
@@ -77,13 +91,23 @@ Poe的订阅计划还具备较高的灵活性，用户可以随时在会员界�
 
 注意：所有虚拟信用卡都会收取开卡费，这是因为它们为用户提供了诸如高安全性支付环境、信息加密保护以及全球范围内支付支持等服务。收取开卡费可以看作是平台的一点“辛苦费”，主要用于维护系统稳定和支付服务的正常运行。但这笔费用只需支付一次，且有效期为2至3年，在这期间不会再收取任何额外费用。之后，你充值多少就到账多少，全部金额都可以自由使用，既安全又省心。而且，WildCard的开卡费比较便宜，2年仅需11.99美元，3年也只需16.99美元。
 
+![最新Poe订阅教程，国内购买充值Poe会员帐号第七步：选择服务年限，输入邀请码“ANYOFAI”，并支付开卡费](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85%EF%BC%9A%E8%BE%93%E5%85%A5%E9%82%80%E8%AF%B7%E7%A0%81ANYOFAI%E5%B9%B6%E6%94%AF%E4%BB%98%E5%BC%80%E5%8D%A1%E8%B4%B9.jpg)
+
 ### 第八步：完善个人信息，选择“暂不认证”即可完成开卡。
 
 注意：这里我们简单介绍一下“完成认证”和“暂不认证”的区别。如果选择暂不认证，Wildcard的每月使用限额为60美金；而如果完成认证，每月使用限额将提升至3000美金。对于大部分用户来说，每月60美金的额度已经足够，因此无需认证。如果你需要更高的使用额度，可以选择点击“完成认证”，并按照系统提示进行刷脸认证即可。
 
+![最新Poe订阅教程，国内购买充值Poe会员帐号第八步：完善个人信息](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%B4%AD%E4%B9%B0%EF%BC%9A%E5%AE%8C%E5%96%84%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF.jpg)
+
+![最新Poe订阅教程，国内购买充值Poe会员帐号第八步：选择“暂不认证”即可完成开卡](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E5%85%85%E5%80%BC%EF%BC%9A%E9%80%89%E6%8B%A9%E6%9A%82%E4%B8%8D%E8%AE%A4%E8%AF%81.jpg)
+
 ### 第九步：点击“我的卡片”，查看虚拟信用卡相关信息。
 
+![最新Poe订阅教程，国内购买充值Poe会员帐号第九步：点击“我的卡片”，查看虚拟信用卡相关信息](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85%EF%BC%9A%E7%82%B9%E5%87%BB%E6%88%91%E7%9A%84%E5%8D%A1%E7%89%87%E6%9F%A5%E7%9C%8B%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%BF%A1%E6%81%AF.jpg)
+
 ### 第十步：回到Poe订阅页面，填写WildCard虚拟信用卡的相关信息，并点击“订阅”按钮。
+
+![最新Poe订阅教程，国内购买充值Poe会员帐号第十步：回到Poe订阅页面，填写WildCard虚拟信用卡的相关信息，并点击“订阅”按钮](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%B4%AD%E4%B9%B0%EF%BC%9A%E5%A1%AB%E5%86%99WildCard%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%BF%A1%E6%81%AF%E5%B9%B6%E7%82%B9%E5%87%BB%E8%AE%A2%E9%98%85%E6%8C%89%E9%92%AE.jpg)
 
 恭喜你！截至到目前，你已经成功使用<a href="https://bewildcard.com/i/ANYOFAI">WildCard虚拟信用卡</a>完成Poe充值。现在，你可以畅享Poe的所有功能和服务，体验其强大的AI工具吧！
 
