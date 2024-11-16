@@ -224,3 +224,17 @@ Poe和ChatGPT都是目前非常流行的AI聊天工具，但它们在功能、�
 ![Poe代充值第四步：按照系统提示完成付款，并提交你的Poe帐号和密码，即可完成Poe代充值](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E4%BB%A3%E5%85%85%E5%80%BC%EF%BC%9A%E6%8F%90%E4%BA%A4Poe%E5%B8%90%E5%8F%B7%E5%92%8C%E5%AF%86%E7%A0%81%E5%AE%8C%E6%88%90Poe%E4%BB%A3%E5%85%85%E5%80%BC.jpg)
 
 注意：当你完成付款并提交Poe帐号和密码后，星际放映厅将在3小时内完成Poe代充值，并通过短信通知你。星际放映厅提供24小时在线客服，有任何问题都可以随时咨询他们的在线客服。
+
+## 国内订阅Poe会员相关的其他文章：
+
+* <a href=https://anyofai.github.io/>最好用的AI工具推荐</a>：ChatGPT是市场上最强大的AI工具之一，能够轻松应对从日常对话到复杂问题解答，以及内容生成等任务。同时，市面上还有许多优秀的AI工具，它们在文本生成、图像处理和视频创作等领域表现出色，可以补充ChatGPT的功能，进一步提升工作效率。
+
+* <a href=https://github.com/anyofai/anyofai.github.io>国内支付宝开通ChatGPT Plus教程</a>：本文将会手把手地教大家如何在中国大陆使用支付宝订阅ChatGPT Plus会员，而且本教程亲测真实有效，我们已经稳定使用ChatGPT Plus一年多，没有遇到任何问题。此外，ChatGPT Plus开通的整个流程也仅需十分钟！
+
+* <a href=https://github.com/anyofai/claude-pro>国内购买Claude Pro教程</a>：本文将重点介绍如何在国内注册Claude帐号，以及如何使用支付宝充值订阅Claude Pro会员。同时，还会解答大家比较关注的Claude Pro帐号共享、Claude Pro帐号合租和Claude Pro代充值等问题。本教程亲测真实有效，而且升级订阅Claude Pro的整个流程也仅需十多分钟！
+
+* <a href=https://github.com/anyofai/chatgpt-plus-hezu>购买ChatGPT Plus合租帐号教程</a>：如果你无法解决科学上网的问题，或觉得每月20美元的会员费用过高，可以考虑购买ChatGPT Plus合租帐号。这种方式不仅能够降低使用成本，还免去了科学上网的复杂操作。
+
+* <a href=https://github.com/anyofai/chatgpt-plus-recharge>支付宝充值ChatGPT Plus教程</a>：如何使用支付宝为ChatGPT Plus充值？目前，中国用户为ChatGPT-4充值的主要方式包括使用虚拟信用卡和Apple礼品卡。我们还将为大家推荐一些可靠的ChatGPT Plus代充值平台，帮助用户找到最适合自己的充值方式。
+
+* <a href=https://github.com/anyofai/chatgpt>国内ChatGPT注册教程</a>：本文将手把手教你如何在中国大陆完成ChatGPT帐号注册和ChatGPT Plus会员升级。整个过程简单明了，而且无需手机验证，只需五分钟即可完成所有操作。
