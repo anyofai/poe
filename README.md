@@ -1,6 +1,6 @@
 # 最新Poe订阅教程：国内如何充值购买Poe会员帐号？
 
-<p align="center">最近更新于：2024年11月16日</p>
+<p align="center">最近更新于：2024年12月10日</p>
 
 众所周知，要使用ChatGPT-4，需要先<a href="https://github.com/anyofai/anyofai.github.io">购买ChatGPT Plus帐号</a>；要使用Claude 3.5，则需要<a href="https://github.com/anyofai/claude-pro">订阅Claude Pro会员</a>。然而，由于国内用户无法通过微信、支付宝或信用卡直接订阅ChatGPT Plus和Claude Pro会员，加上Claude Pro封号问题特别严重。因此，对于中国大陆用户而言，Poe可以说是ChatGPT Plus和Claude Pro的最佳替代品。Poe集成了众多AI模型，包括GPT-4、Claude、Sage等，是一个功能强大的人工智能聊天平台。通过订阅Poe，用户不仅可以自由使用ChatGPT Plus和Claude Pro的所有服务，而且Poe帐号被封的概率也非常低。接下来，我们将为大家详细介绍：Poe是做什么的、Poe的订阅价格是多少，以及国内如何充值购买Poe会员帐号等问题。
 
@@ -258,6 +258,8 @@ Poe和ChatGPT都是目前非常流行的AI聊天工具，但它们在功能、�
 * <a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>：本文推荐的Claude Pro代充服务采用的都是纯人工充值方式，价格非常实惠，提供24小时在线客服，稳定靠谱，独享Claude成品号！
 
 * <a href="https://github.com/anyofai/chatgpt">ChatGPT注册</a>：本文将手把手教你如何在中国大陆完成ChatGPT帐号注册和ChatGPT Plus会员升级。整个过程简单明了，而且无需手机验证，只需五分钟即可完成所有操作。
+
+* <a href="https://github.com/anyofai/onlyfans">OnlyFans订阅</a>：Onlyfans怎样玩？中国人怎么用OnlyFans？Onlyfans官网是哪个？如何注册Onlyfans帐号？国内如何订阅Onlyfans呢？接下来本文将为你详细解答这些问题。
 
 * <a href="https://github.com/anyofai/sora">如何使用Sora</a>：Sora是什么？如何使用Sora？Sora入口在哪？Sora订阅保姆级教程！
 
