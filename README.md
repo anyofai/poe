@@ -221,11 +221,11 @@ Poe和ChatGPT都是目前非常流行的AI聊天工具，但它们在功能、�
 
 很多同学在网上寻找Poe代充值服务，希望通过这种方式绕过支付限制，快速订阅Poe会员。然而，我们并不推荐使用此类服务。首先，代充值通常需要你提供自己的Poe帐号和密码，这会带来较大的安全隐患，帐号和密码的安全性无法得到保障。其次，除了支付Poe会员的订阅费用外，你还需要额外支付一笔手续费，这无形中增加了订阅成本。
 
-如果你综合考虑后仍然决定寻找Poe代充值服务，那么我们推荐你使用：<a href="https://www.naifeistation.com/?invite=3235">“星际放映厅”</a>。星际放映厅是一家专注于会员账号合租和代充值服务的平台，支持Netflix、Spotify、Disney+、HBO GO、YouTube、Prime Video等合租帐号，同时提供ChatGPT、Poe、Claude、Midjourney等AI工具的代充值服务。此外，星际放映厅已在国内完成备案（备案号：浙ICP备2023017856号），其安全性相对更有保障。
+如果你综合考虑后仍然决定寻找Poe代充值服务，那么我们推荐你使用：<a href="https://www.naifeistation.com?invite=3wLPME">“星际放映厅”</a>。星际放映厅是一家专注于会员账号合租和代充值服务的平台，支持Netflix、Spotify、Disney+、HBO GO、YouTube、Prime Video等合租帐号，同时提供ChatGPT、Poe、Claude、Midjourney等AI工具的代充值服务。此外，星际放映厅已在国内完成备案（备案号：浙ICP备2023017856号），其安全性相对更有保障。
 
 ### 第一步：打开星际放映厅官网，并使用手机号码登录。
 
-* 星际放映厅官网：<a href="https://www.naifeistation.com/?invite=3235">https://www.naifeistation.com/?invite=3235</a>
+* 星际放映厅官网：<a href="https://www.naifeistation.com?invite=3wLPME">https://www.naifeistation.com?invite=3wLPME</a>
 
 ![Poe代充值第一步：打开星际放映厅官网，并使用手机号码登录](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E4%BB%A3%E5%85%85%E5%80%BC%EF%BC%9A%E6%89%93%E5%BC%80%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85%E5%AE%98%E7%BD%91%E7%99%BB%E5%BD%95.jpg)
 
