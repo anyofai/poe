@@ -95,11 +95,17 @@ Poe的订阅计划还具备较高的灵活性，用户可以随时在会员界�
 
 ### 第五步：打开“野卡虚拟信用卡”官网，并使用国内手机号完成帐号注册。
 
-野卡官网地址：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>
+* 野卡官网地址：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>
 
 注意：野卡是一款专业的虚拟信用卡服务平台，旨在为用户提供安全、便捷的支付体验。该平台采用一次性随机生成的卡号，结合高级加密技术，确保用户支付安全和个人信息保护。此外，野卡支持多种海外服务，如ChatGPT、Claude订阅服务，以及Apple App Store、Google Play等支付需求，能够满足用户的多样化需求。我们已经使用野卡虚拟信用卡一年多了，目前没有出现任何问题。
 
+![最新Poe订阅教程，国内充值购买Poe会员帐号第五步：打开“野卡虚拟信用卡”官网，并使用国内手机号完成帐号注册](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Yeka-5.png)
+
 ### 第六步：点击左侧的“立即开通”按钮，然后再点击“开通会员”。
+
+![最新Poe订阅教程，国内购买充值Poe会员帐号第六步：点击左侧的“立即开通”按钮](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Yeka-6.png)
+
+![最新Poe订阅教程，国内购买充值Poe会员帐号第六步：点击“开通会员”](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Yeka-6-2.png)
 
 ### 第七步：选择服务年限，输入邀请码“ANYOFAI”，并支付开卡费。
 
@@ -107,11 +113,17 @@ Poe的订阅计划还具备较高的灵活性，用户可以随时在会员界�
 
 注意：所有虚拟信用卡都会收取开卡费，这是因为它们为用户提供了诸如高安全性支付环境、信息加密保护以及全球范围内支付支持等服务。收取开卡费可以看作是平台的一点“辛苦费”，主要用于维护系统稳定和支付服务的正常运行。但这笔费用只需支付一次，且有效期为1至2年，在这期间不会再收取任何额外费用。之后，你充值多少就到账多少，全部金额都可以自由使用，既安全又省心。而且，野卡的开卡费比较便宜，1年仅需11.99美元，2年也只需16.99美元。
 
+![最新Poe订阅教程，国内购买充值Poe会员帐号第七步：选择服务年限，输入邀请码“ANYOFAI”，并支付开卡费](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Yeka-7.png)
+
 ### 第八步：完善个人信息，并点击“完成认证”按钮。
 
 注意：当你点击了“完成认证”按钮之后，系统会提示你进行实名认证！这里我们给大家简单介绍一下“实名认证”和“不实名认证”的区别。如果你不进行实名认证的话，野卡虚拟信用卡的每月使用限额为60美金；如果你完成实名认证之后，每个月的使用限额将提升至3000美金。对于大部分用户来说，每个月60美金的额度已经足够，因此可以不实名认证。如果你需要更高的使用额度，则可以按照系统的提示填写真实姓名和身份证号码进行实名认证。
 
+![最新Poe订阅教程，国内购买充值Poe会员帐号第八步：完善个人信息，并点击“完成认证”按钮](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Yeka-8.png)
+
 ### 第九步：点击“订阅服务”，查看野卡虚拟信用卡相关信息。
+
+![最新Poe订阅教程，国内购买充值Poe会员帐号第九步：点击“订阅服务”，查看野卡虚拟信用卡相关信息](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Yeka-9.png)
 
 ### 第十步：回到Poe订阅页面，填写WildCard虚拟信用卡的相关信息，并点击“订阅”按钮。
 
