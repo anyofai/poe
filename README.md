@@ -6,7 +6,7 @@
 
 众所周知，要使用ChatGPT-4，需要先<a href="https://github.com/anyofai/anyofai.github.io">购买ChatGPT Plus帐号</a>；要使用Claude 3.5，则需要<a href="https://github.com/anyofai/claude-pro">订阅Claude Pro会员</a>。然而，由于国内用户无法通过微信、支付宝或信用卡直接订阅ChatGPT Plus和Claude Pro会员，加上Claude Pro封号问题特别严重。因此，对于中国大陆用户而言，Poe可以说是ChatGPT Plus和Claude Pro的最佳替代品。Poe集成了众多AI模型，包括GPT-4、Claude、Sage等，是一个功能强大的人工智能聊天平台。通过订阅Poe，用户不仅可以自由使用ChatGPT Plus和Claude Pro的所有服务，而且Poe帐号被封的概率也非常低。接下来，我们将为大家详细介绍：Poe是做什么的、Poe的订阅价格是多少，以及国内如何充值购买Poe会员帐号等问题。
 
-注意：如果你因为没有国外信用卡而无法订阅Poe会员的话，不用担心！接下来我们将为大家推荐一种简单便捷的方法，只需五分钟即可获取一张<a href="https://bewildcard.com/i/ANYOFAI">WildCard虚拟信用卡</a>，随后便可使用该虚拟信用卡为Poe充值。此外，本Poe订阅教程亲测真实有效、安全可靠，整个Poe购买流程也仅需十五分钟即可完成。
+注意：如果你因为没有国外信用卡而无法订阅Poe会员的话，不用担心！接下来我们将为大家推荐一种简单便捷的方法，只需五分钟即可获取一张<a href="https://yeka.ai/i/ANYOFAI">野卡YEKA虚拟信用卡</a>，随后便可使用该虚拟信用卡为Poe充值。此外，本Poe订阅教程亲测真实有效、安全可靠，整个Poe购买流程也仅需十五分钟即可完成。
 
 <blockquote>
 
@@ -67,7 +67,7 @@ Poe的订阅计划还具备较高的灵活性，用户可以随时在会员界�
 
 ## 购买Poe会员帐号流程：国内如何订阅Poe会员？
 
-对于中国用户来说，若想订阅Poe会员，首先需要获取一张海外虚拟信用卡，然后再使用该卡充值Poe会员。接下来，我们将手把手教你如何注册Poe帐号，如何快速申请一张<a href="https://bewildcard.com/i/ANYOFAI">WildCard虚拟信用卡</a>，并使用这张卡轻松购买Poe会员。
+对于中国用户来说，若想订阅Poe会员，首先需要获取一张海外虚拟信用卡，然后再使用该卡充值Poe会员。接下来，我们将手把手教你如何注册Poe帐号，如何快速申请一张<a href="https://yeka.ai/i/ANYOFAI">野卡YEKA虚拟信用卡</a>，并使用这张卡轻松购买Poe会员。
 
 ### 第一步：打开Poe官网并登录。
 
@@ -89,7 +89,7 @@ Poe的订阅计划还具备较高的灵活性，用户可以随时在会员界�
 
 ### 第四步：进入Poe订阅费用支付页面。
 
-注意：进行到这一步后，需要暂停操作！因为国内信用卡无法支付Poe订阅费用，我们需要先获取一张海外虚拟信用卡。接下来，我们将手把手教你如何快速申请一张<a href="https://bewildcard.com/i/ANYOFAI">WildCard虚拟信用卡</a>。
+注意：进行到这一步后，需要暂停操作！因为国内信用卡无法支付Poe订阅费用，我们需要先获取一张海外虚拟信用卡。接下来，我们将手把手教你如何快速申请一张<a href="https://yeka.ai/i/ANYOFAI">野卡YEKA虚拟信用卡</a>。
 
 ![最新Poe订阅教程，国内充值购买Poe会员帐号第四步：进入Poe订阅费用支付页面](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85%EF%BC%9A%E8%BF%9B%E5%85%A5Poe%E8%AE%A2%E9%98%85%E8%B4%B9%E7%94%A8%E6%94%AF%E4%BB%98%E9%A1%B5%E9%9D%A2.png)
 
@@ -125,11 +125,11 @@ Poe的订阅计划还具备较高的灵活性，用户可以随时在会员界�
 
 ![最新Poe订阅教程，国内购买充值Poe会员帐号第九步：点击“订阅服务”，查看野卡虚拟信用卡相关信息](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Yeka-9.png)
 
-### 第十步：回到Poe订阅页面，填写WildCard虚拟信用卡的相关信息，并点击“订阅”按钮。
+### 第十步：回到Poe订阅页面，填写“野卡YEKA虚拟信用卡”的相关信息，并点击“订阅”按钮。
 
-![最新Poe订阅教程，国内购买充值Poe会员帐号第十步：回到Poe订阅页面，填写WildCard虚拟信用卡的相关信息，并点击“订阅”按钮](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%B4%AD%E4%B9%B0%EF%BC%9A%E5%A1%AB%E5%86%99WildCard%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%BF%A1%E6%81%AF%E5%B9%B6%E7%82%B9%E5%87%BB%E8%AE%A2%E9%98%85%E6%8C%89%E9%92%AE.jpg)
+![最新Poe订阅教程，国内购买充值Poe会员帐号第十步：回到Poe订阅页面，填写野卡虚拟信用卡的相关信息，并点击“订阅”按钮](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%B4%AD%E4%B9%B0%EF%BC%9A%E5%A1%AB%E5%86%99WildCard%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%BF%A1%E6%81%AF%E5%B9%B6%E7%82%B9%E5%87%BB%E8%AE%A2%E9%98%85%E6%8C%89%E9%92%AE.jpg)
 
-恭喜你！截至到目前，你已经成功使用<a href="https://bewildcard.com/i/ANYOFAI">WildCard虚拟信用卡</a>完成Poe充值。现在，你可以畅享Poe的所有功能和服务，体验其强大的AI工具吧！
+恭喜你！截至到目前，你已经成功使用<a href="https://yeka.ai/i/ANYOFAI">野卡YEKA虚拟信用卡</a>完成Poe充值。现在，你可以畅享Poe的所有功能和服务，体验其强大的AI工具吧！
 
 ## Poe积分用完了怎么办？
 
@@ -159,7 +159,7 @@ Poe支持多种AI模型，但每种模型消耗的积分并不相同。例如，
 
 对于中国大陆的用户而言，Poe官网可能无法正常加载，主要原因是中国的防火长城封锁Poe官网。如果你尝试订阅Poe会员，却发现支付无法完成，则是因为Poe暂未向中国用户开放服务，因此国内的支付工具（如微信、支付宝或银联卡）均无法用于支付Poe订阅费。Poe目前仅支持国际信用卡（如Visa、Mastercard）和虚拟信用卡。因此，对于没有国际支付方式的用户来说，订阅Poe会员可能会遇到一定障碍。
 
-如果你遇到这些问题，可以尝试申请一张<a href="https://bewildcard.com/i/ANYOFAI">WildCard虚拟信用卡</a>。WildCard虚拟信用卡不仅可以用于购买Poe会员，还能够顺利完成ChatGPT Plus和Claude Pro会员的订阅。此外，根据我们的实际使用经验来看，在更换支付方式后，即便是在中国大陆，仍然可以完成Poe订阅，这表明问题的根源并非出在Poe平台本身，而是支付渠道的适配性问题。
+如果你遇到这些问题，可以尝试申请一张<a href="https://yeka.ai/i/ANYOFAI">野卡虚拟信用卡</a>。野卡虚拟信用卡不仅可以用于购买Poe会员，还能够顺利完成ChatGPT Plus和Claude Pro会员的订阅。此外，根据我们的实际使用经验来看，在更换支付方式后，即便是在中国大陆，仍然可以完成Poe订阅，这表明问题的根源并非出在Poe平台本身，而是支付渠道的适配性问题。
 
 总之，Poe并没有停止服务，也不是“不能用”了。针对中国大陆和中国香港用户的限制，主要体现在访问和支付方式方面。通过选择合适的支付工具，大多数用户仍然能够正常订阅并使用Poe的各项功能。
 
