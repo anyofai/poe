@@ -1,6 +1,6 @@
 # 最新Poe订阅教程：国内如何充值购买Poe会员帐号？
 
-<p align="center">最近更新于：2025年1月3日</p>
+<p align="center">最近更新于：2025年2月3日</p>
 
 ![Poe订阅，Poe充值，Poe购买](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85.png)
 
