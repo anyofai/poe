@@ -1,6 +1,6 @@
 # 最新Poe订阅教程：国内如何充值购买Poe会员帐号？
 
-<p align="center">最近更新于：2025年2月3日</p>
+<p align="center">最近更新于：2025年2月13日</p>
 
 ![Poe订阅，Poe充值，Poe购买](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85.png)
 
@@ -265,4 +265,4 @@ Poe和ChatGPT都是目前非常流行的AI聊天工具，但它们在功能、�
 
 * <a href="https://github.com/anyofai/sora">如何使用Sora</a>：Sora是什么？如何使用Sora？Sora入口在哪？Sora订阅保姆级教程！
 
-* <a href="https://anyofai.github.io/">WildCard怎么样</a>：本文将详细解答WildCard怎么样、WildCard安全吗等常见问题，并深入介绍WildCard虚拟信用卡能用来干什么以及如何获取WildCard虚拟信用卡。
+* <a href="https://anyofai.github.io/">野卡Yeka怎么样</a>：本文将详细解答“野卡Yeka怎么样”、“野卡Yeka安全吗”等常见问题，并深入介绍野卡虚拟信用卡能用来干什么以及如何获取野卡虚拟信用卡。
