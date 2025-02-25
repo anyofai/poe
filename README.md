@@ -89,7 +89,7 @@ Poe的订阅计划还具备较高的灵活性，用户可以随时在会员界�
 
 ### 第四步：进入Poe订阅费用支付页面。
 
-注意：进行到这一步后，需要暂停操作！因为国内信用卡无法支付Poe订阅费用，我们需要先获取一张海外虚拟信用卡。接下来，我们将手把手教你如何快速申请一张<a href="https://yeka.ai/i/ANYOFAI">野卡YEKA虚拟信用卡</a>。
+注意：进行到这一步后，需要暂停操作！因为国内信用卡无法支付Poe订阅费用，我们需要先获取一张海外虚拟信用卡。接下来，我们将手把手教你如何快速申请一张<a href="https://yeka.ai/i/ANYOFAI">YEKA野卡虚拟信用卡</a>。
 
 ![最新Poe订阅教程，国内充值购买Poe会员帐号第四步：进入Poe订阅费用支付页面](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85%EF%BC%9A%E8%BF%9B%E5%85%A5Poe%E8%AE%A2%E9%98%85%E8%B4%B9%E7%94%A8%E6%94%AF%E4%BB%98%E9%A1%B5%E9%9D%A2.png)
 
