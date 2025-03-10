@@ -1,6 +1,6 @@
 # 最新Poe订阅教程：国内如何充值购买Poe会员账号？可无限制使用未降智的ChatGPT-4.5、满血版DeepSeek-R1、马斯克Grok-3、谷歌Gemini-2 Pro等！
 
-<p align="center">最近更新于：2025年3月2日</p>
+<p align="center">最近更新于：2025年3月10日</p>
 
 ![Poe订阅，Poe充值，Poe购买](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85.png)
 
@@ -291,6 +291,8 @@ ChatGPT的订阅模式则更为简单直接，目前ChatGPT Plus会员能够完�
 * <a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>：本文推荐的Claude Pro代充服务采用的都是纯人工充值方式，价格非常实惠，提供24小时在线客服，稳定靠谱，独享Claude成品号！
 
 * <a href="https://github.com/anyofai/onlyfans">OnlyFans订阅</a>：Onlyfans怎样玩？中国人怎么用OnlyFans？Onlyfans官网是哪个？如何注册Onlyfans帐号？国内如何订阅Onlyfans呢？接下来本文将为你详细解答这些问题。
+
+* <a href="https://github.com/anyofai/x-twitter">Twitter X Premium订阅</a>：国内用户如何通过订阅X Premium、Premium+或SuperGrok等方式来使用Grok 3？以及国内如何白嫖Grok API每月150美元的免费额度？
 
 * <a href="https://github.com/anyofai/chatgpt">ChatGPT注册</a>：本文将手把手教你如何在中国大陆完成ChatGPT帐号注册和ChatGPT Plus会员升级。整个过程简单明了，而且无需手机验证，只需五分钟即可完成所有操作。
 
