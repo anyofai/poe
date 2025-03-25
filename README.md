@@ -4,7 +4,7 @@
 
 ![Poe订阅，Poe充值，Poe购买](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85.png)
 
-众所周知，要使用ChatGPT-4.5，需要先<a href="https://github.com/anyofai/anyofai.github.io">购买ChatGPT Plus帐号</a>；要使用Claude 3.5，则需要<a href="https://github.com/anyofai/claude-pro">订阅Claude Pro会员</a>。然而，由于国内用户无法通过微信、支付宝或信用卡直接订阅ChatGPT Plus和Claude Pro会员，加上Claude Pro封号问题特别严重。因此，对于中国大陆用户而言，Poe可以说是ChatGPT Plus和Claude Pro的最佳替代品。
+众所周知，要使用ChatGPT-4.5，需要先<a href="https://github.com/anyofai/anyofai.github.io">购买ChatGPT Plus帐号</a>；要使用Claude 3.7，则需要<a href="https://github.com/anyofai/claude-pro">订阅Claude Pro会员</a>。然而，由于国内用户无法通过微信、支付宝或信用卡直接订阅ChatGPT Plus和Claude Pro会员，加上Claude Pro封号问题特别严重。因此，对于中国大陆用户而言，Poe可以说是ChatGPT Plus和Claude Pro的最佳替代品。
 
 Poe集成了众多AI工具，包括ChatGPT、Claude、Gemini、DeepSeek、Grok、Llama、Mistral等。也就是说，通过订阅Poe，用户可以自由使用未降智的ChatGPT-4.5-Preview、马斯克Grok-3、谷歌Gemini-2 Pro、Claude-3.7-Sonnet、完整版DeepSeek（包括DeepSeek-V3-FW和DeepSeek-R1）等模型，而且Poe账号被封的概率也非常低。接下来，我们将为大家详细介绍：Poe是做什么的、Poe的订阅价格是多少，以及国内如何充值购买Poe会员账号等问题。
 
