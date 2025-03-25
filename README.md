@@ -100,13 +100,13 @@ Poe订阅计划的管理也非常灵活便捷，用户可随时在会员界面�
 
 ### 第四步：进入Poe订阅费用支付页面。
 
-注意：进行到这一步后，需要暂停操作！因为国内信用卡无法支付Poe订阅费用，我们需要先获取一张海外虚拟信用卡。接下来，我们将手把手教你如何快速申请一张<a href="https://yeka.ai/i/ANYOFAI">YEKA野卡虚拟信用卡</a>。
+注意：进行到这一步后，需要暂停操作！因为国内信用卡无法支付Poe订阅费用，我们需要先获取一张海外虚拟信用卡。接下来，我们将手把手教你如何快速申请一张<a href="https://yeka.ai/i/ANYOFAI">WildCard野卡虚拟信用卡</a>。
 
 ![最新Poe订阅教程，国内充值购买Poe会员帐号第四步：进入Poe订阅费用支付页面](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85%EF%BC%9A%E8%BF%9B%E5%85%A5Poe%E8%AE%A2%E9%98%85%E8%B4%B9%E7%94%A8%E6%94%AF%E4%BB%98%E9%A1%B5%E9%9D%A2.png)
 
-### 第五步：打开“野卡虚拟信用卡”官网，并使用国内手机号完成帐号注册。
+### 第五步：打开“WildCard野卡虚拟信用卡”官网，并使用国内手机号完成帐号注册。
 
-* 野卡官网地址：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>
+* WildCard野卡官网地址：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>
 
 注意：野卡是一款专业的虚拟信用卡服务平台，旨在为用户提供安全、便捷的支付体验。该平台采用一次性随机生成的卡号，结合高级加密技术，确保用户支付安全和个人信息保护。此外，野卡支持多种海外服务，如ChatGPT、Claude订阅服务，以及Apple App Store、Google Play等支付需求，能够满足用户的多样化需求。我们已经使用野卡虚拟信用卡一年多了，目前没有出现任何问题。
 
