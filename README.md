@@ -8,7 +8,7 @@
 
 Poe集成了众多AI工具，包括ChatGPT、Claude、Gemini、DeepSeek、Grok、Llama、Mistral等。也就是说，通过订阅Poe，用户可以自由使用未降智的ChatGPT-4.5-Preview、马斯克Grok-3、谷歌Gemini-2 Pro、Claude-3.7-Sonnet、完整版DeepSeek（包括DeepSeek-V3-FW和DeepSeek-R1）等模型，而且Poe账号被封的概率也非常低。接下来，我们将为大家详细介绍：Poe是做什么的、Poe的订阅价格是多少，以及国内如何充值购买Poe会员账号等问题。
 
-注意：如果你因为没有国外信用卡而无法订阅Poe会员的话，不用担心！接下来我们将为大家推荐一种简单便捷的方法，只需五分钟即可获取一张<a href="https://yeka.ai/i/ANYOFAI">YEKA野卡虚拟信用卡</a>，随后便可使用该虚拟信用卡为Poe充值。此外，本Poe订阅教程亲测真实有效、安全可靠，整个Poe购买流程也仅需十五分钟即可完成。
+注意：如果你因为没有国外信用卡而无法订阅Poe会员的话，不用担心！接下来我们将为大家推荐一种简单便捷的方法，只需五分钟即可获取一张<a href="https://yeka.ai/i/ANYOFAI">WildCard野卡虚拟信用卡</a>，随后便可使用该虚拟信用卡为Poe充值。此外，本Poe订阅教程亲测真实有效、安全可靠，整个Poe购买流程也仅需十五分钟即可完成。
 
 <blockquote>
 
