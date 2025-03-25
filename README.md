@@ -140,7 +140,7 @@ Poe订阅计划的管理也非常灵活便捷，用户可随时在会员界面�
 
 ![最新Poe订阅教程，国内购买充值Poe会员帐号第十步：回到Poe订阅页面，填写野卡虚拟信用卡的相关信息，并点击“订阅”按钮](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%B4%AD%E4%B9%B0%EF%BC%9A%E5%A1%AB%E5%86%99WildCard%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%BF%A1%E6%81%AF%E5%B9%B6%E7%82%B9%E5%87%BB%E8%AE%A2%E9%98%85%E6%8C%89%E9%92%AE.jpg)
 
-恭喜你！截至到目前，你已经成功使用<a href="https://yeka.ai/i/ANYOFAI">野卡YEKA虚拟信用卡</a>完成Poe充值。现在，你可以畅享Poe的所有功能和服务，体验其强大的AI工具吧！
+恭喜你！截至到目前，你已经成功使用<a href="https://yeka.ai/i/ANYOFAI">WildCard野卡虚拟信用卡</a>完成Poe充值。现在，你可以畅享Poe的所有功能和服务，体验其强大的AI工具吧！
 
 ## Poe积分用完了怎么办？
 
