@@ -77,7 +77,7 @@ Poe订阅计划的管理也非常灵活便捷，用户可随时在会员界面�
 
 总体而言，无论是短期体验还是长期使用，Poe会员的订阅费用在同类AI服务中均具有较高性价比。选择适合你的订阅方案，即可全面解锁Poe的强大功能，满足多样化的使用需求，享受更加卓越的AI服务体验。
 
-## 购买Poe会员帐号流程：国内如何订阅Poe会员？
+## POE充值教程：国内如何订阅Poe会员？
 
 对于中国用户来说，若想订阅Poe会员，首先需要获取一张海外虚拟信用卡，然后再使用该卡充值Poe会员。接下来，我们将手把手教你如何注册Poe帐号，如何快速申请一张<a href="https://yeka.ai/i/ANYOFAI">WildCard野卡虚拟信用卡</a>，并使用这张卡轻松购买Poe会员。
 
@@ -87,23 +87,23 @@ Poe订阅计划的管理也非常灵活便捷，用户可随时在会员界面�
 
 如果你是第一次使用Poe，那么可以选择“使用Google继续”或“使用Apple继续”直接登录，也可以使用电子邮箱注册并登录。（注意：使用邮箱注册Poe帐号时，建议使用海外邮箱，如Gmail或Outlook；尽量避免使用国内邮箱，如QQ邮箱或163邮箱，以提高注册成功率。）
 
-![最新Poe订阅教程，国内充值购买Poe会员帐号第一步：打开Poe官网并登录](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85%EF%BC%9A%E6%89%93%E5%BC%80Poe%E5%AE%98%E7%BD%91%E5%B9%B6%E7%99%BB%E5%BD%95.png)
+![POE充值教程-国内订阅Poe会员第一步：打开Poe官网并登录](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85%EF%BC%9A%E6%89%93%E5%BC%80Poe%E5%AE%98%E7%BD%91%E5%B9%B6%E7%99%BB%E5%BD%95.png)
 
 ### 第二步：点击左侧导航栏中的“订阅”。
 
-![最新Poe订阅教程，国内充值购买Poe会员帐号第二步：点击左侧导航栏中的“订阅”](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%B4%AD%E4%B9%B0%EF%BC%9A%E7%82%B9%E5%87%BB%E5%B7%A6%E4%BE%A7%E5%AF%BC%E8%88%AA%E6%A0%8F%E4%B8%AD%E7%9A%84%E8%AE%A2%E9%98%85.png)
+![POE充值教程-国内订阅Poe会员第二步：点击左侧导航栏中的“订阅”](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%B4%AD%E4%B9%B0%EF%BC%9A%E7%82%B9%E5%87%BB%E5%B7%A6%E4%BE%A7%E5%AF%BC%E8%88%AA%E6%A0%8F%E4%B8%AD%E7%9A%84%E8%AE%A2%E9%98%85.png)
 
 ### 第三步：选择“按年计费”或“按月计费”，然后点击“订阅Poe”按钮。
 
 注意：下图中显示的Poe价格是以“新加坡元（SGD）”为单位的，如果折算成美金的话，那就是19.99美金/月，199.99美金/年。
 
-![最新Poe订阅教程，国内充值购买Poe会员帐号第三步：选择“按年计费”或“按月计费”，然后点击“订阅Poe”按钮](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E5%85%85%E5%80%BC%EF%BC%9A%E9%80%89%E6%8B%A9%E6%8C%89%E5%B9%B4%E8%AE%A1%E8%B4%B9%E6%88%96%E6%8C%89%E6%9C%88%E8%AE%A1%E8%B4%B9%E5%B9%B6%E7%82%B9%E5%87%BB%E8%AE%A2%E9%98%85Poe.png)
+![POE充值教程-国内订阅Poe会员第三步：选择“按年计费”或“按月计费”，然后点击“订阅Poe”按钮](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E5%85%85%E5%80%BC%EF%BC%9A%E9%80%89%E6%8B%A9%E6%8C%89%E5%B9%B4%E8%AE%A1%E8%B4%B9%E6%88%96%E6%8C%89%E6%9C%88%E8%AE%A1%E8%B4%B9%E5%B9%B6%E7%82%B9%E5%87%BB%E8%AE%A2%E9%98%85Poe.png)
 
 ### 第四步：进入Poe订阅费用支付页面。
 
 注意：进行到这一步后，需要暂停操作！因为国内信用卡无法支付Poe订阅费用，我们需要先获取一张海外虚拟信用卡。接下来，我们将手把手教你如何快速申请一张<a href="https://yeka.ai/i/ANYOFAI">WildCard野卡虚拟信用卡</a>。
 
-![最新Poe订阅教程，国内充值购买Poe会员帐号第四步：进入Poe订阅费用支付页面](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85%EF%BC%9A%E8%BF%9B%E5%85%A5Poe%E8%AE%A2%E9%98%85%E8%B4%B9%E7%94%A8%E6%94%AF%E4%BB%98%E9%A1%B5%E9%9D%A2.png)
+![POE充值教程-国内订阅Poe会员第四步：进入Poe订阅费用支付页面](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85%EF%BC%9A%E8%BF%9B%E5%85%A5Poe%E8%AE%A2%E9%98%85%E8%B4%B9%E7%94%A8%E6%94%AF%E4%BB%98%E9%A1%B5%E9%9D%A2.png)
 
 ### 第五步：打开“WildCard野卡虚拟信用卡”官网，并使用国内手机号完成帐号注册。
 
@@ -111,13 +111,13 @@ Poe订阅计划的管理也非常灵活便捷，用户可随时在会员界面�
 
 注意：野卡是一款专业的虚拟信用卡服务平台，旨在为用户提供安全、便捷的支付体验。该平台采用一次性随机生成的卡号，结合高级加密技术，确保用户支付安全和个人信息保护。此外，野卡支持多种海外服务，如ChatGPT、Claude订阅服务，以及Apple App Store、Google Play等支付需求，能够满足用户的多样化需求。我们已经使用野卡虚拟信用卡一年多了，目前没有出现任何问题。
 
-![最新Poe订阅教程，国内充值购买Poe会员帐号第五步：打开“野卡虚拟信用卡”官网，并使用国内手机号完成帐号注册](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Yeka-5.png)
+![POE充值教程-国内订阅Poe会员第五步：打开“野卡虚拟信用卡”官网，并使用国内手机号完成帐号注册](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Yeka-5.png)
 
 ### 第六步：点击左侧的“立即开通”按钮，然后再点击“开通会员”。
 
-![最新Poe订阅教程，国内购买充值Poe会员帐号第六步：点击左侧的“立即开通”按钮](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Yeka-6.png)
+![POE充值教程-国内订阅Poe会员第六步：点击左侧的“立即开通”按钮](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Yeka-6.png)
 
-![最新Poe订阅教程，国内购买充值Poe会员帐号第六步：点击“开通会员”](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Yeka-6-2.png)
+![POE充值教程-国内订阅Poe会员第六步：点击“开通会员”](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Yeka-6-2.png)
 
 ### 第七步：选择服务年限，输入邀请码“ANYOFAI”，并支付开卡费。
 
@@ -125,21 +125,21 @@ Poe订阅计划的管理也非常灵活便捷，用户可随时在会员界面�
 
 注意：所有虚拟信用卡都会收取开卡费，这是因为它们为用户提供了诸如高安全性支付环境、信息加密保护以及全球范围内支付支持等服务。收取开卡费可以看作是平台的一点“辛苦费”，主要用于维护系统稳定和支付服务的正常运行。但这笔费用只需支付一次，且有效期为1至2年，在这期间不会再收取任何额外费用。之后，你充值多少就到账多少，全部金额都可以自由使用，既安全又省心。而且，野卡的开卡费比较便宜，1年仅需11.99美元，2年也只需16.99美元。
 
-![最新Poe订阅教程，国内购买充值Poe会员帐号第七步：选择服务年限，输入邀请码“ANYOFAI”，并支付开卡费](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Yeka-7.png)
+![POE充值教程-国内订阅Poe会员第七步：选择服务年限，输入邀请码“ANYOFAI”，并支付开卡费](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Yeka-7.png)
 
 ### 第八步：完善个人信息，并点击“完成认证”按钮。
 
 注意：当你点击了“完成认证”按钮之后，系统会提示你进行实名认证！这里我们给大家简单介绍一下“实名认证”和“不实名认证”的区别。如果你不进行实名认证的话，野卡虚拟信用卡的每月使用限额为60美金；如果你完成实名认证之后，每个月的使用限额将提升至3000美金。对于大部分用户来说，每个月60美金的额度已经足够，因此可以不实名认证。如果你需要更高的使用额度，则可以按照系统的提示填写真实姓名和身份证号码进行实名认证。
 
-![最新Poe订阅教程，国内购买充值Poe会员帐号第八步：完善个人信息，并点击“完成认证”按钮](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Yeka-8.png)
+![POE充值教程-国内订阅Poe会员第八步：完善个人信息，并点击“完成认证”按钮](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Yeka-8.png)
 
 ### 第九步：点击“订阅服务”，查看野卡虚拟信用卡相关信息。
 
-![最新Poe订阅教程，国内购买充值Poe会员帐号第九步：点击“订阅服务”，查看野卡虚拟信用卡相关信息](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Yeka-9.png)
+![POE充值教程-国内订阅Poe会员第九步：点击“订阅服务”，查看野卡虚拟信用卡相关信息](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Yeka-9.png)
 
 ### 第十步：回到Poe订阅页面，填写“野卡YEKA虚拟信用卡”的相关信息，并点击“订阅”按钮。
 
-![最新Poe订阅教程，国内购买充值Poe会员帐号第十步：回到Poe订阅页面，填写野卡虚拟信用卡的相关信息，并点击“订阅”按钮](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%B4%AD%E4%B9%B0%EF%BC%9A%E5%A1%AB%E5%86%99WildCard%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%BF%A1%E6%81%AF%E5%B9%B6%E7%82%B9%E5%87%BB%E8%AE%A2%E9%98%85%E6%8C%89%E9%92%AE.jpg)
+![POE充值教程-国内订阅Poe会员第十步：回到Poe订阅页面，填写野卡虚拟信用卡的相关信息，并点击“订阅”按钮](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%B4%AD%E4%B9%B0%EF%BC%9A%E5%A1%AB%E5%86%99WildCard%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%BF%A1%E6%81%AF%E5%B9%B6%E7%82%B9%E5%87%BB%E8%AE%A2%E9%98%85%E6%8C%89%E9%92%AE.jpg)
 
 恭喜你！截至到目前，你已经成功使用<a href="https://yeka.ai/i/ANYOFAI">WildCard野卡虚拟信用卡</a>完成Poe充值。现在，你可以畅享Poe的所有功能和服务，体验其强大的AI工具吧！
 
