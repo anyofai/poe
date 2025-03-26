@@ -61,6 +61,8 @@ Poe采用积分制度管理用户的使用量。免费版用户每天获得固�
 
 ## Poe订阅价格：Poe订阅费用是多少？
 
+![Poe订阅价格：Poe订阅费用是多少？](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe-Price-1.png)
+
 Poe提供月费和年费两种订阅计划，用户可根据自身需求灵活选择。月费方案为每月19.99美元，非常适合对AI工具有短期或灵活使用需求的用户；年费方案则为每年199.99美元，折算下来相当于每月约16.67美元，相比月费方案更具性价比。
 
 订阅Poe会员后，用户即可解锁一系列高级功能，显著提升AI工具的使用体验。会员可不限次数地使用包括GPT-4.5-Preview、GPT-4o、Claude-3.7-Sonnet、Claude-3.5-Opus、Gemini-2-Pro和DeepSeek-R1在内的多种顶尖AI模型，并享受更快的响应速度以及优先支持服务。
