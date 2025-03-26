@@ -61,13 +61,13 @@ Poe采用积分制度管理用户的使用量。免费版用户每天获得固�
 
 ## Poe订阅价格：Poe订阅费用是多少？
 
-![Poe订阅价格：Poe订阅费用是多少？](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe-Price-1.png)
-
 Poe提供月费和年费两种订阅计划，用户可根据自身需求灵活选择。月费方案为每月19.99美元，非常适合对AI工具有短期或灵活使用需求的用户；年费方案则为每年199.99美元，折算下来相当于每月约16.67美元，相比月费方案更具性价比。
 
-订阅Poe会员后，用户即可解锁一系列高级功能，显著提升AI工具的使用体验。会员可不限次数地使用包括GPT-4.5-Preview、GPT-4o、Claude-3.7-Sonnet、Claude-3.5-Opus、Gemini-2-Pro和DeepSeek-R1在内的多种顶尖AI模型，并享受更快的响应速度以及优先支持服务。
+![Poe订阅价格：Poe订阅费用是多少？](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe-Price-1.png)
 
-此外，Poe会员每月还可获得高达100万计算积分，额度远超免费用户。按照当前兑换比率，这些积分可支持向Gemini-2-Flash发送约50,000条标准信息、向ChatGPT-4.5发送约5,000条标准信息，或向Claude-3.7-Sonnet发送约2,500条标准信息。对于需要频繁调用AI模型或处理复杂任务的专业用户而言，这样的积分额度非常充足，完全满足专业级别的应用需求。
+订阅Poe会员后，用户即可解锁一系列高级功能，显著提升AI工具的使用体验。Poe会员可不限次数地使用包括GPT-4.5-Preview、GPT-4o、Claude-3.7-Sonnet、Claude-3.5-Opus、Gemini-2-Pro和DeepSeek-R1在内的多种顶尖AI模型，并享受更快的响应速度以及优先支持服务。
+
+此外，Poe会员每月还可获得高达100万计算积分，额度远超免费用户。按照当前兑换比率，这些积分可支持向Gemini-2-Flash发送约50,000条标准信息、向ChatGPT-4.5发送约5,000条标准信息，或向Claude-3.7-Sonnet发送约9,000条标准信息。对于需要频繁调用AI模型或处理复杂任务的专业用户而言，这样的积分额度非常充足，完全满足专业级别的应用需求。
 
 Poe会员还可以自由访问完整版的DeepSeek-R1、Grok-3等最新高级AI模型，而非功能受限的免费版本。这些完整版模型具备更强大的推理能力、更长的上下文窗口以及更高的响应精度，帮助用户充分利用当前市场最先进的AI技术进行创作和问题解决。
 
