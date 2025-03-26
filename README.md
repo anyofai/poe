@@ -33,7 +33,7 @@ Poe是由Quora推出的人工智能聊天平台，其名字来源于"Platform of
 
 与传统的AI工具相比，Poe最大的优势在于它的一站式服务能力和多模型集成。用户不仅可以免费体验多个基础AI模型，还可以通过订阅Poe会员解锁更高性能的服务。通过Poe，用户可以在一个简洁统一的界面中轻松切换不同的AI模型，无需分别访问多个服务商或平台，大大简化了使用流程。此外，Poe还支持用户自定义机器人，允许用户根据自己的需求调整机器人的行为和响应，从而满足更加个性化的使用场景。
 
-![最新Poe订阅教程：国内如何充值购买Poe会员帐号？](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/%E6%9C%80%E6%96%B0Poe%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B%EF%BC%9A%E5%9B%BD%E5%86%85%E5%A6%82%E4%BD%95%E5%85%85%E5%80%BC%E8%B4%AD%E4%B9%B0Poe%E4%BC%9A%E5%91%98%E5%B8%90%E5%8F%B7.jpg)
+![最新Poe订阅教程：国内如何充值购买Poe会员帐号？](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/%E6%9C%80%E6%96%B0Poe%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B-%E5%9B%BD%E5%86%85%E5%A6%82%E4%BD%95%E5%85%85%E5%80%BC%E8%B4%AD%E4%B9%B0Poe%E4%BC%9A%E5%91%98%E5%B8%90%E5%8F%B7.png)
 
 Poe的核心特点包括：
 
