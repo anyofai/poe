@@ -251,7 +251,7 @@ ChatGPT的订阅模式则更为简单直接，目前ChatGPT Plus会员能够完�
 
 注意：现在使用我们的独家优惠码“**ANYOFAI**”，即可享受九折优惠！
 
-![Poe代充值第三步：输入独家优惠码“ANYOFAI”，然后点击“支付订单”按钮](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E4%BB%A3%E5%85%85%E5%80%BC%EF%BC%9A%E8%BE%93%E5%85%A5%E7%8B%AC%E5%AE%B6%E4%BC%98%E6%83%A0%E7%A0%81ANYOFAI%E5%B9%B6%E7%82%B9%E5%87%BB%E6%94%AF%E4%BB%98%E8%AE%A2%E5%8D%95.jpg)
+![Poe代充值第三步：输入独家优惠码“ANYOFAI”，然后点击“支付订单”按钮](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E4%BB%A3%E5%85%85%E5%80%BC-%E8%BE%93%E5%85%A5%E7%8B%AC%E5%AE%B6%E4%BC%98%E6%83%A0%E7%A0%81ANYOFAI%E5%B9%B6%E7%82%B9%E5%87%BB%E6%94%AF%E4%BB%98%E8%AE%A2%E5%8D%95.png)
 
 ### 第四步：按照系统提示完成付款，并提交你的Poe帐号和密码，即可完成Poe代充值。
 
