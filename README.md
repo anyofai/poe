@@ -261,7 +261,7 @@ ChatGPT的订阅模式则更为简单直接，目前ChatGPT Plus会员能够完�
 
 ## 我可以购买Poe合租共享帐号吗？
 
-![我可以购买Poe合租共享帐号吗？](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe-hezu.png)
+![我可以购买Poe合租共享帐号吗？](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe-Hezu.png)
 
 对于Poe合租共享账号，许多用户可能会感到心动，因为从表面上看，这种方式价格低廉且可以多人分摊费用。但需要注意的是，购买Poe合租共享账号可能带来许多潜在问题，甚至可能导致账号被封禁。
 
