@@ -263,9 +263,9 @@ ChatGPT的订阅模式则更为简单直接，目前ChatGPT Plus会员能够完�
 
 尽管我们建议大家自己动手订阅POE会员，但如果你觉得每月20美元的费用有点贵，那么合租POE账号也确实算是一个省钱的好选择！市场上POE合租平台不少，但说到安全靠谱，还得数星际放映厅！星际放映厅提供的POE合租服务每月只要55元人民币，比自己订阅便宜不少。现在用优惠码"ANYOFAI"下单，还能直接享受九折优惠，更加实惠！
 
-![我可以购买Poe合租共享帐号吗？](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe-Hezu.png)
-
 <p align="center"><a href="https://www.naifeistation.com?invite=3wLPME">立即访问星际放映厅官网</a></p>
+
+![我可以购买Poe合租共享帐号吗？](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe-Hezu.png)
 
 特别提醒：合租POE的具体操作流程和前面"Poe代充值"的步骤是一样的，按照那个指引操作就没问题了！选择星际放映厅，既省钱又安心，让你轻松体验POE的全部高级功能。
 
