@@ -231,7 +231,7 @@ ChatGPT的订阅模式则更为简单直接，目前ChatGPT Plus会员能够完�
 
 总体而言，Poe和ChatGPT各有特点，适合不同的用户群体。如果你需要一个功能强大、模型丰富的平台，希望根据任务需求随时切换、比较和使用最新最强大的AI模型（如GPT-4.5-Preview、Claude-3.7-Sonnet、满血版DeepSeek-R1、Grok-3、Llama-3-70b-Groq、Mistral等），那么Poe无疑是更具吸引力的选择。而如果你的主要需求是专注于OpenAI旗下最新模型GPT-4.5的高效稳定表现，ChatGPT Plus则是一个更直接、更便捷的解决方案。在选择具体工具时，建议你综合自身的实际需求、预算情况以及使用偏好，挑选最适合自己的AI服务平台。
 
-## Poe代充值：如何购买Poe会员帐号？
+## 如何购买Poe会员帐号（即Poe代充值）？
 
 有很多同学给我们留言，询问是否有可靠的POE代充值服务（POE代充值也可以称之为“购买POE会员帐号”）！其实，我们建议大家自己动手订阅POE会员，因为注册POE账号非常简单，而且订阅POE会员仅仅需要一张WildCard野卡信用卡而已，整个操作过程轻松快捷！此外，POE代充值服务除了要收取原本的POE订阅费用之外，还需要收取一定的手续费。所以，从经济学的角度来说，自己动手订阅POE会员会更便宜一些！
 
@@ -241,31 +241,31 @@ ChatGPT的订阅模式则更为简单直接，目前ChatGPT Plus会员能够完�
 
 * 星际放映厅官网：<a href="https://www.naifeistation.com?invite=3wLPME">https://www.naifeistation.com?invite=3wLPME</a>
 
-![Poe代充值第一步：打开星际放映厅官网，并使用手机号码登录](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E4%BB%A3%E5%85%85%E5%80%BC%EF%BC%9A%E6%89%93%E5%BC%80%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85%E5%AE%98%E7%BD%91%E7%99%BB%E5%BD%95.jpg)
+![购买Poe会员帐号（即Poe代充值）第一步：打开星际放映厅官网，并使用手机号码登录](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E4%BB%A3%E5%85%85%E5%80%BC%EF%BC%9A%E6%89%93%E5%BC%80%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85%E5%AE%98%E7%BD%91%E7%99%BB%E5%BD%95.jpg)
 
 ### 第二步：在首页依次点击“AI工具箱”和“Poe”。
 
-![Poe代充值第二步：在首页依次点击“AI工具箱”和“Poe”](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E4%BB%A3%E5%85%85%E5%80%BC%EF%BC%9A%E4%BE%9D%E6%AC%A1%E7%82%B9%E5%87%BBAI%E5%B7%A5%E5%85%B7%E7%AE%B1%E5%92%8CPoe.jpg)
+![购买Poe会员帐号（即Poe代充值）第二步：在首页依次点击“AI工具箱”和“Poe”](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E4%BB%A3%E5%85%85%E5%80%BC%EF%BC%9A%E4%BE%9D%E6%AC%A1%E7%82%B9%E5%87%BBAI%E5%B7%A5%E5%85%B7%E7%AE%B1%E5%92%8CPoe.jpg)
 
 ### 第三步：输入独家优惠码“ANYOFAI”，然后点击“支付订单”按钮。
 
 注意：现在使用我们的独家优惠码“**ANYOFAI**”，即可享受九折优惠！
 
-![Poe代充值第三步：输入独家优惠码“ANYOFAI”，然后点击“支付订单”按钮](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E4%BB%A3%E5%85%85%E5%80%BC-%E8%BE%93%E5%85%A5%E7%8B%AC%E5%AE%B6%E4%BC%98%E6%83%A0%E7%A0%81ANYOFAI%E5%B9%B6%E7%82%B9%E5%87%BB%E6%94%AF%E4%BB%98%E8%AE%A2%E5%8D%95.png)
+![购买Poe会员帐号（即Poe代充值）第三步：输入独家优惠码“ANYOFAI”，然后点击“支付订单”按钮](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E4%BB%A3%E5%85%85%E5%80%BC-%E8%BE%93%E5%85%A5%E7%8B%AC%E5%AE%B6%E4%BC%98%E6%83%A0%E7%A0%81ANYOFAI%E5%B9%B6%E7%82%B9%E5%87%BB%E6%94%AF%E4%BB%98%E8%AE%A2%E5%8D%95.png)
 
 ### 第四步：按照系统提示完成付款，并提交你的Poe帐号和密码，即可完成Poe代充值。
 
-![Poe代充值第四步：按照系统提示完成付款，并提交你的Poe帐号和密码，即可完成Poe代充值](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E4%BB%A3%E5%85%85%E5%80%BC%EF%BC%9A%E6%8F%90%E4%BA%A4Poe%E5%B8%90%E5%8F%B7%E5%92%8C%E5%AF%86%E7%A0%81%E5%AE%8C%E6%88%90Poe%E4%BB%A3%E5%85%85%E5%80%BC.jpg)
+![购买Poe会员帐号（即Poe代充值）第四步：按照系统提示完成付款，并提交你的Poe帐号和密码，即可完成Poe代充值](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E4%BB%A3%E5%85%85%E5%80%BC%EF%BC%9A%E6%8F%90%E4%BA%A4Poe%E5%B8%90%E5%8F%B7%E5%92%8C%E5%AF%86%E7%A0%81%E5%AE%8C%E6%88%90Poe%E4%BB%A3%E5%85%85%E5%80%BC.jpg)
 
 注意：当你完成付款并提交Poe帐号和密码后，星际放映厅将在3小时内完成Poe代充值，并通过短信通知你。星际放映厅提供24小时在线客服，有任何问题都可以随时咨询他们的在线客服。
 
-## 我可以购买Poe合租共享帐号吗？
+## 国内如何购买Poe合租共享帐号？
 
 尽管我们建议大家自己动手订阅POE会员，但如果你觉得每月20美元的费用有点贵，那么合租POE账号也确实算是一个省钱的好选择！市场上POE合租平台不少，但说到安全靠谱，还得数星际放映厅！星际放映厅提供的POE合租服务每月只要55元人民币，比自己订阅便宜不少。现在用优惠码"ANYOFAI"下单，还能直接享受九折优惠，更加实惠！
 
 <p align="center"><a href="https://www.naifeistation.com?invite=3wLPME">立即访问星际放映厅官网</a></p>
 
-![我可以购买Poe合租共享帐号吗？](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe-Hezu.png)
+![国内如何购买Poe合租共享帐号？](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe-Hezu.png)
 
 特别提醒：合租POE的具体操作流程和前面"Poe代充值"的步骤是一样的，按照那个指引操作就没问题了！选择星际放映厅，既省钱又安心，让你轻松体验POE的全部高级功能。
 
