@@ -1,6 +1,6 @@
-# 最新Poe订阅教程：国内如何充值购买Poe会员账号？可无限制使用未降智的ChatGPT-4.5、满血版DeepSeek-R1、马斯克Grok-3、谷歌Gemini-2 Pro等！
+# 最新Poe订阅教程：国内如何充值购买Poe会员账号？可无限制使用GPT-4o生图功能、GPT-4.1系列模型、最新Claude-Sonnet-4和Claude-Opus-4模型、满血版DeepSeek-R1、马斯克Grok-3、谷歌Gemini-2.5 Pro等！
 
-<p align="center">最近更新于：2025年3月25日</p>
+<p align="center">最近更新于：2025年5月26日</p>
 
 ![Poe订阅，Poe充值，Poe购买](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85.png)
 
