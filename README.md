@@ -1,6 +1,6 @@
 # 最新Poe订阅教程：国内如何充值购买Poe会员账号？可无限制使用GPT-4o生图功能、GPT-4.1系列模型、Claude-Sonnet/Opus-4、满血版DeepSeek-R1、马斯克Grok-3、谷歌Gemini-2.5 Pro等！
 
-<p align="center">最近更新于：2025年5月26日</p>
+<p align="center">最近更新于：2025年5月27日</p>
 
 ![Poe订阅，Poe充值，Poe购买](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85.png)
 
@@ -101,9 +101,9 @@ Poe的订阅管理也非常灵活，用户可以随时在个人中心调整订�
 
 * WildCard野卡官网地址：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>
 
-注意：野卡是一款专业的虚拟信用卡服务平台，旨在为用户提供安全、便捷的支付体验。该平台采用一次性随机生成的卡号，结合高级加密技术，确保用户支付安全和个人信息保护。此外，野卡支持多种海外服务，如ChatGPT、Claude订阅服务，以及Apple App Store、Google Play等支付需求，能够满足用户的多样化需求。我们已经使用野卡虚拟信用卡一年多了，目前没有出现任何问题。
+注意：WildCard野卡是一款专业的虚拟信用卡服务平台，旨在为用户提供安全、便捷的支付体验。该平台采用一次性随机生成的卡号，结合高级加密技术，确保用户支付安全和个人信息保护。此外，WildCard野卡支持多种海外服务，如ChatGPT、Claude订阅服务，以及Apple App Store、Google Play等支付需求，能够满足用户的多样化需求。我们已经使用WildCard野卡虚拟信用卡两年多了，目前没有出现任何问题。
 
-![POE充值教程-国内订阅Poe会员第五步：打开“野卡虚拟信用卡”官网，并使用国内手机号完成帐号注册](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Yeka-5.png)
+![POE充值教程-国内订阅Poe会员第五步：打开“WildCard野卡虚拟信用卡”官网，并使用国内手机号完成帐号注册](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Yeka-5.png)
 
 ### 第六步：点击左侧的“立即开通”按钮，然后再点击“开通会员”。
 
