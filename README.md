@@ -123,7 +123,7 @@ Poe的订阅管理也非常灵活，用户可以随时在个人中心调整订�
 
 ![POE充值教程-国内订阅Poe会员第八步：按照系统提示完成实名认证](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/WildCard%E5%AE%9E%E5%90%8D%E8%AE%A4%E8%AF%81.png)
 
-OK，当你完成以上所有操作后，就可以看到"恭喜您开通卡片成功"的提示信息。此时，就代表你已经成功申请到了一张可用于订阅Claude Pro会员的国外虚拟信用卡。
+OK，当你完成以上所有操作后，就可以看到"恭喜您开通卡片成功"的提示信息。此时，就代表你已经成功申请到了一张可用于订阅Poe会员的国外虚拟信用卡。
 
 ![POE充值教程-国内订阅Poe会员第八步：恭喜你开通WildCard野卡信用卡](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/WildCard%E5%AE%8C%E6%88%90%E5%BC%80%E5%8D%A1.png)
 
