@@ -161,11 +161,11 @@ Poe支持多种AI模型，但每种模型消耗的积分并不相同。例如，
 
 有很多同学给我们留言，询问是否有可靠的POE代充值服务（POE代充值也可以称之为“购买POE会员帐号”）！其实，我们建议大家自己动手订阅POE会员，因为注册POE账号非常简单，而且订阅POE会员仅仅需要一张WildCard野卡信用卡而已，整个操作过程轻松快捷！此外，POE代充值服务除了要收取原本的POE订阅费用之外，还需要收取一定的手续费。所以，从经济学的角度来说，自己动手订阅POE会员会更便宜一些！
 
-如果你综合考虑后仍然决定寻找Poe代充值服务，那么我们推荐你使用："<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>"。星际放映厅是一家专注于流媒体帐号和AI工具帐号合租的平台，不仅提供Netflix、Spotify、Disney+、HBO GO、YouTube、Prime Video等流媒体账号合租服务，同时还提供ChatGPT、Poe、Claude、Midjourney等AI工具账号的合租和代充值服务。此外，星际放映厅已在国内完成备案（备案号：浙ICP备2023017856号），其安全性相对更有保障。
+如果你综合考虑后仍然决定寻找Poe代充值服务，那么我们推荐你使用："<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>"。星际放映厅是一家专注于流媒体帐号和AI工具帐号合租的平台，不仅提供Netflix、Spotify、Disney+、HBO GO、YouTube、Prime Video等流媒体账号合租服务，同时还提供ChatGPT、Poe、Claude、Midjourney等AI工具账号的合租和代充值服务。此外，星际放映厅已在国内完成备案（备案号：浙ICP备2023017856号），其安全性相对更有保障。
 
 ### 第一步：打开星际放映厅官网，并使用手机号码登录。
 
-* 星际放映厅官网：<a href="https://www.naifeistation.com?invite=3wLPME">https://www.naifeistation.com?invite=3wLPME</a>
+* 星际放映厅官网：<a href="https://www.naifeistation.com/i/3wLPME">https://www.naifeistation.com/i/3wLPME</a>
 
 ![购买Poe会员帐号（即Poe代充值）第一步：打开星际放映厅官网，并使用手机号码登录](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E4%BB%A3%E5%85%85%E5%80%BC%EF%BC%9A%E6%89%93%E5%BC%80%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85%E5%AE%98%E7%BD%91%E7%99%BB%E5%BD%95.jpg)
 
@@ -189,7 +189,7 @@ Poe支持多种AI模型，但每种模型消耗的积分并不相同。例如，
 
 尽管我们建议大家自己动手订阅POE会员，但如果你觉得每月20美元的费用有点贵，那么合租POE账号也确实算是一个省钱的好选择！市场上POE合租平台不少，但说到安全靠谱，还得数星际放映厅！星际放映厅提供的POE合租服务每月只要55元人民币，比自己订阅便宜不少。现在用优惠码"ANYOFAI"下单，还能直接享受九折优惠，更加实惠！
 
-<p align="center"><a href="https://www.naifeistation.com?invite=3wLPME">立即访问星际放映厅官网</a></p>
+<p align="center"><a href="https://www.naifeistation.com/i/3wLPME">立即访问星际放映厅官网</a></p>
 
 ![国内如何购买Poe合租共享帐号？](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe-Hezu.png)
 
