@@ -1,6 +1,6 @@
-# 最新Poe订阅教程：国内如何充值购买Poe会员账号？可无限制使用GPT-4o生图功能、GPT-4.1系列模型、Claude-Sonnet/Opus-4、满血版DeepSeek-R1、马斯克Grok-3、谷歌Gemini-2.5 Pro等！
+# 最新Poe订阅教程：国内如何充值购买Poe会员账号？可无限制使用GPT-4o生图功能、GPT-4.1系列模型、Claude-Sonnet/Opus-4、马斯克Grok-3、谷歌Gemini-2.5 Pro等！
 
-<p align="center">最近更新于：2025年5月27日</p>
+<p align="center">最近更新于：2025年7月10日</p>
 
 ![Poe订阅，Poe充值，Poe购买](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85.png)
 
@@ -274,7 +274,16 @@ ChatGPT的订阅模式则更为简单直接，目前ChatGPT Plus会员能够完�
 * <a href="https://github.com/anyofai/onlyfans">OnlyFans订阅</a>：包括订阅OnlyFans的详细操作步骤，以及OnlyFans怎样玩和中国人怎么用OnlyFans！
 * <a href="https://github.com/anyofai/suno">Suno订阅</a>：提供订阅Suno AI会员的详细操作步骤，以及Suno AI音乐创作的使用指南！
 * <a href="https://github.com/anyofai/sora">Sora订阅</a>：包含订阅Sora的详细操作步骤和Sora的使用方法！
+
 * <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-4.5、DeepSeek-R1、Grok-3和Gemini-2 Pro等大模型！每月仅需27元！
-* <a href="https://github.com/anyofai/netflix-hezu">Netflix奈飞合租</a>：提供独立子账号、支持设置pin码，可访问Netflix全球影视资源，全程质保！每月仅需20元！
 * <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！每月仅需8元！
+* <a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>：提供国内镜像直连、官方标准会员合租、官方Pro会员合租等三种服务！每月仅需27元！
+* <a href="https://github.com/anyofai/netflix-hezu">Netflix奈飞合租</a>：提供独立子账号、支持设置pin码，可访问Netflix全球影视资源，全程质保！每月仅需20元！
+* <a href="https://github.com/anyofai/youtube-premium">YouTube合租</a>：安全有保障，可享受YouTube Premium会员所有权益！每月仅需12元！
+* <a href="https://github.com/anyofai/spotify-hezu">Spotify合租</a>：官方渠道采购，品质有保障！可享Spotify Premium所有权益！每月仅需13.5元！
+
 * <a href="https://anyofai.github.io/">WildCard野卡虚拟信用卡</a>：详细解答“WildCard野卡怎么样”和“WildCard野卡安全吗”等常见问题。
+* <a href="https://github.com/anyofai/chatgpt">ChatGPT注册</a>：最新的ChatGPT账号注册详细操作步骤，以及ChatGPT成品账号购买指南！
+* <a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>：推荐最稳定可靠的ChatGPT Plus代充值平台，价格优惠，信誉有保障。
+* <a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>：提供纯人工充值服务，价格实惠，24小时在线客服，独享Claude Pro成品账号！
+* <a href="https://github.com/anyofai/video-site">国外视频网站</a>：本文将会推荐五个国外付费视频网站、五个国外免费视频网站和十个海外免费电影网站！
