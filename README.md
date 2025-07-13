@@ -20,7 +20,7 @@
 
 Poe集成了众多AI工具，包括ChatGPT、Claude、Gemini、DeepSeek、Grok、Llama、Mistral等。也就是说，通过订阅Poe会员，用户可以自由使用GPT-4o、GPT-4.1、Claude-Sonnet-4、Claude-Opus-4、DeepSeek-R1、Grok-3、Gemini-2.5 Pro等全球最先进的AI大模型，而且Poe账号被封的概率也非常低。接下来，我们将为大家详细介绍：Poe是做什么的、Poe的订阅价格是多少，以及国内如何充值购买Poe会员账号等问题。
 
-注意：如果你因为没有国外信用卡而无法订阅Poe会员的话，不用担心！接下来我们将为大家推荐一种简单便捷的方法，只需五分钟即可获取一张<a href="https://yeka.ai/i/ANYOFAI">WildCard野卡信用卡</a>，随后便可使用该虚拟信用卡为Poe充值。此外，本Poe订阅教程亲测真实有效、安全可靠，整个Poe购买流程也仅需十五分钟即可完成。
+注意：如果你因为没有国外信用卡而无法订阅Poe会员的话，不用担心！接下来我们将为大家推荐一种简单便捷的方法，只需五分钟即可获取一张WildCard野卡信用卡，随后便可使用该虚拟信用卡为Poe充值。此外，本Poe订阅教程亲测真实有效、安全可靠，整个Poe购买流程也仅需十五分钟即可完成。
 
 <blockquote>
   <h2 id="本文内容导航">本文（重点）内容导航</h2>
@@ -83,7 +83,7 @@ Poe的订阅管理也非常灵活，用户可以随时在个人中心调整订�
 
 ## POE充值教程：国内如何订阅Poe会员？
 
-对于中国用户来说，若想订阅Poe会员，首先需要获取一张海外虚拟信用卡，然后再使用该卡充值Poe会员。接下来，我们将手把手教你如何注册Poe帐号，如何快速申请一张<a href="https://yeka.ai/i/ANYOFAI">WildCard野卡虚拟信用卡</a>，并使用这张卡轻松购买Poe会员。
+对于中国用户来说，若想订阅Poe会员，首先需要获取一张海外虚拟信用卡，然后再使用该卡充值Poe会员。接下来，我们将手把手教你如何注册Poe帐号，如何快速申请一张WildCard野卡虚拟信用卡，并使用这张卡轻松购买Poe会员。
 
 ### 第一步：打开Poe官网并登录。
 
@@ -105,13 +105,11 @@ Poe的订阅管理也非常灵活，用户可以随时在个人中心调整订�
 
 ### 第四步：进入Poe订阅费用支付页面。
 
-注意：进行到这一步后，需要暂停操作！因为国内信用卡无法支付Poe订阅费用，我们需要先获取一张海外虚拟信用卡。接下来，我们将手把手教你如何快速申请一张<a href="https://yeka.ai/i/ANYOFAI">WildCard野卡虚拟信用卡</a>。
+注意：进行到这一步后，需要暂停操作！因为国内信用卡无法支付Poe订阅费用，我们需要先获取一张海外虚拟信用卡。接下来，我们将手把手教你如何快速申请一张WildCard野卡虚拟信用卡。
 
 ![POE充值教程-国内订阅Poe会员第四步：进入Poe订阅费用支付页面](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85%EF%BC%9A%E8%BF%9B%E5%85%A5Poe%E8%AE%A2%E9%98%85%E8%B4%B9%E7%94%A8%E6%94%AF%E4%BB%98%E9%A1%B5%E9%9D%A2.png)
 
 ### 第五步：打开“WildCard野卡虚拟信用卡”官网，并使用国内手机号完成帐号注册。
-
-* WildCard野卡官网地址：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>
 
 注意：WildCard野卡是一款专业的虚拟信用卡服务平台，旨在为用户提供安全、便捷的支付体验。该平台采用一次性随机生成的卡号，结合高级加密技术，确保用户支付安全和个人信息保护。此外，WildCard野卡支持多种海外服务，如ChatGPT、Claude订阅服务，以及Apple App Store、Google Play等支付需求，能够满足用户的多样化需求。我们已经使用WildCard野卡虚拟信用卡两年多了，目前没有出现任何问题。
 
@@ -147,7 +145,7 @@ OK，当你完成以上所有操作后，就可以看到"恭喜您开通卡片�
 
 ![POE充值教程-国内订阅Poe会员第十步：回到Poe订阅页面，填写“WildCard野卡信用卡”的相关信息，并点击“订阅”按钮。](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%B4%AD%E4%B9%B0%EF%BC%9A%E5%A1%AB%E5%86%99WildCard%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%BF%A1%E6%81%AF%E5%B9%B6%E7%82%B9%E5%87%BB%E8%AE%A2%E9%98%85%E6%8C%89%E9%92%AE.jpg)
 
-恭喜你！截至到目前，你已经成功使用<a href="https://yeka.ai/i/ANYOFAI">WildCard野卡虚拟信用卡</a>完成Poe充值。现在，你可以畅享Poe的所有功能和服务，体验其强大的AI工具吧！
+恭喜你！截至到目前，你已经成功使用WildCard野卡虚拟信用卡完成Poe充值。现在，你可以畅享Poe的所有功能和服务，体验其强大的AI工具吧！
 
 ## Poe积分用完了怎么办？
 
@@ -218,8 +216,6 @@ Poe支持多种AI模型，但每种模型消耗的积分并不相同。例如，
 如果你遇到这些问题，可以尝试申请一张WildCard野卡信用卡。WildCard野卡信用卡不仅可以用于购买Poe会员，还能够顺利完成ChatGPT Plus和Claude Pro会员的订阅。此外，根据我们的实际使用经验来看，在更换支付方式后，即便是在中国大陆，仍然可以完成Poe订阅，这表明问题的根源并非出在Poe平台本身，而是支付渠道的适配性问题。
 
 总之，Poe并没有停止服务，也不是“不能用”了。针对中国大陆和中国香港用户的限制，主要体现在访问和支付方式方面。通过选择合适的支付工具，大多数用户仍然能够正常订阅并使用Poe的各项功能。
-
-<p align="center"><a href="https://yeka.ai/i/ANYOFAI">立即获取WildCard野卡信用卡</a></p>
 
 ## Poe封号了怎么办？
 
