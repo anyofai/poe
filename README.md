@@ -1,4 +1,4 @@
-# 最新Poe订阅教程：国内如何充值购买Poe会员账号？可无限制使用GPT-4o生图功能、GPT-4.1系列模型、Claude-Sonnet/Opus-4、马斯克Grok-3、谷歌Gemini-2.5 Pro等！
+# 最新Poe订阅教程：国内如何充值购买Poe会员账号？可无限制使用GPT-4o生图功能、GPT-4.1系列模型、Claude-Sonnet/Opus-4、马斯克Grok-4、谷歌Gemini-2.5 Pro等！
 
 <p align="center">最近更新于：2025年7月12日</p>
 
@@ -18,7 +18,7 @@
 
 众所周知，若想使用最新GPT-4o生图功能和GPT-4.1系列模型，就需要先<a href="https://github.com/anyofai/anyofai.github.io">购买ChatGPT Plus帐号</a>；若要想使用最新Claude-Sonnet-4和Claude-Opus-4模型，则需要<a href="https://github.com/anyofai/claude-pro">订阅Claude Pro会员</a>。然而，由于国内用户无法使用微信、支付宝或国内信用卡直接订阅ChatGPT Plus和Claude Pro会员，加上Claude Pro封号问题特别严重。因此，对于中国大陆用户而言，Poe可以说是ChatGPT Plus和Claude Pro的最佳替代品。
 
-Poe集成了众多AI工具，包括ChatGPT、Claude、Gemini、DeepSeek、Grok、Llama、Mistral等。也就是说，通过订阅Poe会员，用户可以自由使用GPT-4o、GPT-4.1、Claude-Sonnet-4、Claude-Opus-4、DeepSeek-R1、Grok-3、Gemini-2.5 Pro等全球最先进的AI大模型，而且Poe账号被封的概率也非常低。接下来，我们将为大家详细介绍：Poe是做什么的、Poe的订阅价格是多少，以及国内如何充值购买Poe会员账号等问题。
+Poe集成了众多AI工具，包括ChatGPT、Claude、Gemini、DeepSeek、Grok、Llama、Mistral等。也就是说，通过订阅Poe会员，用户可以自由使用GPT-4o、GPT-4.1、Claude-Sonnet-4、Claude-Opus-4、DeepSeek-R1、Grok-4、Gemini-2.5 Pro等全球最先进的AI大模型，而且Poe账号被封的概率也非常低。接下来，我们将为大家详细介绍：Poe是做什么的、Poe的订阅价格是多少，以及国内如何充值购买Poe会员账号等问题。
 
 注意：如果你因为没有国外信用卡而无法订阅Poe会员的话，不用担心！接下来我们将为大家推荐一种简单便捷的方法，只需五分钟即可获取一张WildCard野卡信用卡，随后便可使用该虚拟信用卡为Poe充值。此外，本Poe订阅教程亲测真实有效、安全可靠，整个Poe购买流程也仅需十五分钟即可完成。
 
@@ -33,7 +33,7 @@ Poe集成了众多AI工具，包括ChatGPT、Claude、Gemini、DeepSeek、Grok�
 
 ## Poe是做什么的？
 
-Poe是由Quora推出的人工智能聊天平台，其名字来源于"Platform of Engagement"，旨在为用户提供一个一站式的AI互动平台。Poe汇集了多个主流的AI聊天机器人，包括GPT-4o、GPT-4.1、o1、o3、o4-mini、Claude-Sonnet-4、Claude-Opus-4、Grok-3、Gemini-2.5 Pro、DeepSeek-R1、Llama-3-70b-Groq、Mistral等，涵盖了目前市面上最强大的AI模型。
+Poe是由Quora推出的人工智能聊天平台，其名字来源于"Platform of Engagement"，旨在为用户提供一个一站式的AI互动平台。Poe汇集了多个主流的AI聊天机器人，包括GPT-4o、GPT-4.1、o1、o3、o4-mini、Claude-Sonnet-4、Claude-Opus-4、Grok-4、Gemini-2.5 Pro、DeepSeek-R1、Llama-3-70b-Groq、Mistral等，涵盖了目前市面上最强大的AI模型。
 
 ![最新Poe订阅教程：国内如何充值购买Poe会员帐号？](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe.png)
 
@@ -69,7 +69,7 @@ Poe提供按月和按年两种订阅方式，用户可以根据自己的需求�
 
 ![Poe订阅价格：Poe订阅费用是多少？](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe-Price-1.png)
 
-订阅Poe会员后，用户可以解锁一系列高级功能，显著提升AI工具的使用体验。Poe会员可不限次数地使用GPT-4o、GPT-4.1、Claude-Sonnet-4、Claude-Opus-4、Gemini-2.5 Pro、DeepSeek-R1、Grok-3等最新顶级AI模型，并享受更快的响应速度和优先支持服务。
+订阅Poe会员后，用户可以解锁一系列高级功能，显著提升AI工具的使用体验。Poe会员可不限次数地使用GPT-4o、GPT-4.1、Claude-Sonnet-4、Claude-Opus-4、Gemini-2.5 Pro、DeepSeek-R1、Grok-4等最新顶级AI模型，并享受更快的响应速度和优先支持服务。
 
 此外，Poe会员每月可获得高达100万计算积分，远高于免费用户。根据当前规则，这些积分大致可用于向Gemini-2.5 Pro发送约5万条标准消息，向GPT-4.1和Claude-Opus-4发送约5,000条消息，或向Claude-Sonnet-4发送约9,000条消息。对于需要频繁调用AI模型或处理复杂任务的专业用户来说，这样的积分额度完全能够满足日常和专业需求。
 
@@ -161,7 +161,7 @@ Poe支持多种AI模型，但每种模型消耗的积分并不相同。例如，
 
 * 考虑升级为会员
 
-如果你的AI需求较为频繁，或者需要使用高级模型（如GPT-4o、GPT-4.1、Claude-Sonnet-4、Claude-Opus-4、Gemini-2.5 Pro、Grok-3等）完成更复杂的任务，订阅Poe会员是最直接的解决方法。成为Poe会员后，积分限制将被解除，同时你还可以享受到更高的响应速度以及优质的服务体验，是长期使用AI工具的理想选择。
+如果你的AI需求较为频繁，或者需要使用高级模型（如GPT-4o、GPT-4.1、Claude-Sonnet-4、Claude-Opus-4、Gemini-2.5 Pro、Grok-4等）完成更复杂的任务，订阅Poe会员是最直接的解决方法。成为Poe会员后，积分限制将被解除，同时你还可以享受到更高的响应速度以及优质的服务体验，是长期使用AI工具的理想选择。
 
 * 使用备用AI工具
 
@@ -251,19 +251,19 @@ Poe和ChatGPT都是当前十分流行的AI聊天工具，二者在功能范围�
 
 * 功能集成对比
 
-从功能集成的角度来看，Poe最大的优势在于它是一个多模型聚合平台。用户不仅能够通过统一的界面使用ChatGPT（GPT-4.5-Preview），还可以便捷地访问Claude（Claude-3.7-Sonnet）、Gemini（Gemini-2-Flash）、DeepSeek（DeepSeek-V3-FW、DeepSeek-R1）、Grok（Grok-3）、Llama（Llama-3-70b-Groq）以及Mistral等最新的顶尖AI模型。这种多模型整合的设计使用户能够根据具体任务需求快速切换不同的AI模型，比较它们的表现，灵活性极高。
+从功能集成的角度来看，Poe最大的优势在于它是一个多模型聚合平台。用户不仅能够通过统一的界面使用ChatGPT（GPT-4.5-Preview），还可以便捷地访问Claude（Claude-3.7-Sonnet）、Gemini（Gemini-2-Flash）、DeepSeek（DeepSeek-V3-FW、DeepSeek-R1）、Grok（Grok-4）、Llama（Llama-3-70b-Groq）以及Mistral等最新的顶尖AI模型。这种多模型整合的设计使用户能够根据具体任务需求快速切换不同的AI模型，比较它们的表现，灵活性极高。
 
 相比之下，ChatGPT则专注于OpenAI自家的模型，当前已升级至最新版本GPT-4.5，其模型性能和交互体验经过了深度优化和精细调整，能够很好地满足创意写作、代码生成、语言翻译、通用推理和日常对话等广泛的应用场景。如果你的需求明确，仅依赖于OpenAI最新的GPT系列模型来完成特定任务，那么ChatGPT无疑是一个高效而直接的选择。
 
 * 订阅服务对比
 
-在订阅服务方面，Poe提供免费版和付费会员版两种模式。免费用户每天可免费使用一定次数的高级模型（例如每日一次GPT-4.5-Preview），并通过计算积分调用其他模型；而付费会员则可以不限次数地使用包括GPT-4.5-Preview、Claude-3.7-Sonnet、Gemini-2-Flash、满血版DeepSeek-R1、Grok-3、Llama-3-70b-Groq、Mistral等在内的所有高级模型，并能享受更快的响应速度和优先支持服务。
+在订阅服务方面，Poe提供免费版和付费会员版两种模式。免费用户每天可免费使用一定次数的高级模型（例如每日一次GPT-4.5-Preview），并通过计算积分调用其他模型；而付费会员则可以不限次数地使用包括GPT-4.5-Preview、Claude-3.7-Sonnet、Gemini-2-Flash、满血版DeepSeek-R1、Grok-4、Llama-3-70b-Groq、Mistral等在内的所有高级模型，并能享受更快的响应速度和优先支持服务。
 
 ChatGPT的订阅模式则更为简单直接，目前ChatGPT Plus会员能够完整访问GPT-4.5，并享有稳定的模型使用体验与较高的服务优先级，但不支持调用OpenAI之外的其他厂商的AI模型。因此，如果你希望一次订阅即可体验多种AI模型的不同特点，Poe更具性价比；而若你只关注OpenAI自家GPT-4.5模型的性能表现，ChatGPT Plus则可能更加适合。
 
 * 适用场景对比
 
-在适用场景方面，Poe的多模型特性让它更具灵活性。用户可以根据不同任务的需求，选择最适合的AI模型协助完成。例如，Claude（Claude-3.7-Sonnet）在长文本总结和逻辑推理方面表现突出；DeepSeek系列（尤其是满血版DeepSeek-R1）在复杂推理任务、代码编写及专业内容创作方面拥有极佳表现；Gemini（Gemini-2-Flash）在快速响应、实时对话应用中表现出色；Grok（Grok-3）和Llama（Llama-3-70b-Groq）则凭借其卓越的开源性能，尤其适合专业用户及开发者进行定制化使用。
+在适用场景方面，Poe的多模型特性让它更具灵活性。用户可以根据不同任务的需求，选择最适合的AI模型协助完成。例如，Claude（Claude-3.7-Sonnet）在长文本总结和逻辑推理方面表现突出；DeepSeek系列（尤其是满血版DeepSeek-R1）在复杂推理任务、代码编写及专业内容创作方面拥有极佳表现；Gemini（Gemini-2-Flash）在快速响应、实时对话应用中表现出色；Grok（Grok-4）和Llama（Llama-3-70b-Groq）则凭借其卓越的开源性能，尤其适合专业用户及开发者进行定制化使用。
 
 而ChatGPT则专注于OpenAI自家的最新模型GPT-4.5，经过深度调优，在创意写作、代码生成、语言翻译及通用对话等任务场景中表现稳定且高效，更适合对单一模型性能和稳定性有较高要求的用户。
 
@@ -271,7 +271,7 @@ ChatGPT的订阅模式则更为简单直接，目前ChatGPT Plus会员能够完�
 
 在用户体验方面，Poe的界面设计更加注重多模型的快速切换和功能对比，界面简洁直观，提供给用户丰富的选择空间和灵活性，特别适合希望灵活运用不同AI工具的用户。相比之下，ChatGPT的界面更为专注于单一模型的高效交互，提供了精简而直接的用户体验，更适合无需复杂切换、更专注于单模型使用的用户。
 
-总体而言，Poe和ChatGPT各有特点，适合不同的用户群体。如果你需要一个功能强大、模型丰富的平台，希望根据任务需求随时切换、比较和使用最新最强大的AI模型（如GPT-4.5-Preview、Claude-3.7-Sonnet、满血版DeepSeek-R1、Grok-3、Llama-3-70b-Groq、Mistral等），那么Poe无疑是更具吸引力的选择。而如果你的主要需求是专注于OpenAI旗下最新模型GPT-4.5的高效稳定表现，ChatGPT Plus则是一个更直接、更便捷的解决方案。在选择具体工具时，建议你综合自身的实际需求、预算情况以及使用偏好，挑选最适合自己的AI服务平台。
+总体而言，Poe和ChatGPT各有特点，适合不同的用户群体。如果你需要一个功能强大、模型丰富的平台，希望根据任务需求随时切换、比较和使用最新最强大的AI模型（如GPT-4.5-Preview、Claude-3.7-Sonnet、满血版DeepSeek-R1、Grok-4、Llama-3-70b-Groq、Mistral等），那么Poe无疑是更具吸引力的选择。而如果你的主要需求是专注于OpenAI旗下最新模型GPT-4.5的高效稳定表现，ChatGPT Plus则是一个更直接、更便捷的解决方案。在选择具体工具时，建议你综合自身的实际需求、预算情况以及使用偏好，挑选最适合自己的AI服务平台。
 
 ## 国内订阅Poe会员相关的其他文章：
 
@@ -283,7 +283,7 @@ ChatGPT的订阅模式则更为简单直接，目前ChatGPT Plus会员能够完�
 * <a href="https://github.com/anyofai/suno">Suno订阅</a>：提供订阅Suno AI会员的详细操作步骤，以及Suno AI音乐创作的使用指南！
 * <a href="https://github.com/anyofai/sora">Sora订阅</a>：包含订阅Sora的详细操作步骤和Sora的使用方法！
 
-* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-4.5、DeepSeek-R1、Grok-3和Gemini-2 Pro等大模型！每月仅需27元！
+* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-4.5、DeepSeek-R1、Grok-4和Gemini-2 Pro等大模型！每月仅需27元！
 * <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！每月仅需8元！
 * <a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>：提供国内镜像直连、官方标准会员合租、官方Pro会员合租等三种服务！每月仅需27元！
 * <a href="https://github.com/anyofai/netflix-hezu">Netflix奈飞合租</a>：提供独立子账号、支持设置pin码，可访问Netflix全球影视资源，全程质保！每月仅需20元！
