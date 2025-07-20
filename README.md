@@ -12,7 +12,7 @@
 
 * 通过“<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>”这个专业的平台去购买POE原生独立帐号或者为你的POE帐号代充值！
 
-注意：关于星际放映厅的信息，我们在“<a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>”和“<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>”这两篇中有详细介绍！
+注意：关于“星际放映厅”的信息，我们在“<a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>”和“<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>”这两篇中有详细介绍！
 
 </blockquote>
 
