@@ -1,16 +1,18 @@
 # 最新Poe订阅教程：国内如何充值购买Poe会员账号？可无限制使用GPT-4o生图功能、GPT-4.1系列模型、Claude-Sonnet/Opus-4、马斯克Grok-4、谷歌Gemini-2.5 Pro等！
 
-<p align="center">最近更新于：2025年7月12日</p>
+<p align="center">最近更新于：2025年7月20日</p>
 
 <blockquote>
 
-#### 🚨🚨关于“WildCard野卡跑路”的重要说明🚨🚨
+#### 🚨🚨关于“WildCard野卡跑路（被迫停止服务）”的重要说明🚨🚨
 
-很遗憾地通知大家，2025年7月12日中午，Wildcard野卡的官方群突然发布公告称，由于一些不可抗力因素，Wildcard将立即停止全部业务。
+非常遗憾地通知大家，2025年7月12日中午，Wildcard野卡的官方群突然发布公告称，由于一些不可抗力因素，Wildcard将立即停止全部业务。也就是说，目前国内唯一可以用来给POE充值、而且我一直觉得非常好用的虚拟信用卡，现在也已经永久停止服务了。从今以后，国内用户若想订阅充值POE会员将变得更加困难。
 
-也就是说，目前国内唯一可以用来给Poe充值、而且我一直觉得非常好用的虚拟信用卡，现在也已经永久停止服务了。从今以后，国内普通用户想要订阅充值Poe会变得更加困难。
+目前我们正在积极地寻找可以完美替代“WildCard野卡”的虚拟信用卡！但在此之前，大家可以通过以下这种方式来继续使用POE会员。
 
-我们也在积极寻找可以替代“WildCard野卡”的服务。在此之前，大家可以添加我们的**微信（ VX号：ANYOFAI ）**，我们会为你提供一些订阅充值Poe会员的平替方案。
+* 通过“<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>”这个专业的平台去购买POE原生独立帐号或者为你的POE帐号代充值！
+
+注意：关于星际放映厅这个平台的信息，我们在“<a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>”和“<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>”这两篇中有详细介绍！
 
 </blockquote>
 
