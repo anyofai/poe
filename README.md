@@ -112,6 +112,8 @@ Poe和ChatGPT各有特点，适合的用户群体也有所不同。ChatGPT是由
 
 因此，如果你只依赖ChatGPT，那么ChatGPT Plus已经足以满足需求。但如果你希望同时体验多个厂商的先进模型，或者希望以更高的性价比获得更多选择，那么Poe无疑是更合适的选择。
 
+<p align="center"><a href="https://www.naifeistation.com/i/3wLPME">立即访问星际放映厅官网</a></p>
+
 ## 国内订阅Poe会员相关的其他文章：
 
 * <a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus开通</a>：详细介绍如何获取国外虚拟信用卡，以及支付宝开通ChatGPT Plus会员的完整步骤！
