@@ -6,7 +6,11 @@
 
 如果你在工作中需要频繁使用ChatGPT、Claude、Gemini、Grok等AI工具，或者你想要体验目前所有主流的AI模型，那么现在你只需订阅一个Poe会员，然后就可以在同一个平台上自由使用GPT-5、GPT-4o、Claude Opus 4.1、Claude Sonnet 4、Grok-4和Gemini-2.5 Pro等当下全球最先进的大模型了。当订阅Poe会员后，你不仅无需在多个AI工具之间频繁切换账号，还能同时节省大量原本需要分别支付给各大AI工具的订阅费用，从而以更低的成本获得更高效、更便捷的使用体验。接下来，我们将为大家详细解答Poe是做什么的、Poe订阅价格是多少，以及国内如何充值购买Poe账号等问题。
 
+<blockquote>
+
 注意：如果你想单独订阅ChatGPT Plus或Claude Pro等会员服务，请参考相关的<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus充值</a>或<a href="https://github.com/anyofai/claude-pro">Claude Pro订阅</a>等教程。目前，购买ChatGPT Plus原生独立账号的价格为152元/月，为已有的ChatGPT账号代充值的价格为133元/月，而合租ChatGPT Plus会员的价格低至26元/月。
+
+</blockquote>
 
 ## 2025年国内如何充值购买Poe账号？
 
