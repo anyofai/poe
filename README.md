@@ -24,11 +24,11 @@
 
 接下来，我们将手把手地教大家如何通过“星际放映厅”来购买Poe账号。只要你按照以下步骤来操作，大约五分钟就可以成功获取一个已经完成订阅充值的Poe账号，并且该账号在拿到手之后即可立即使用，功能完整且没有任何限制。
 
-### 第一步：打开星际放映厅官网，使用手机号完成帐号注册。
+### 第一步：打开星际放映厅官网，使用手机号完成账号注册。
 
 * 星际放映厅官网：<a href="https://www.naifeistation.com/i/3wLPME">https://www.naifeistation.com/i/3wLPME</a>
 
-![订阅Poe会员第一步：打开星际放映厅官网，使用手机号完成帐号注册](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85-1.png)
+![订阅Poe会员第一步：打开星际放映厅官网，使用手机号完成账号注册](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85-1.png)
 
 ### 第二步：在星际放映厅官网首页，依次点击“AI工具箱”和“POE”。
 
@@ -38,7 +38,7 @@
 
 注意：现在使用星际放映厅优惠码“ANYOFAI”，即可享受九折优惠！
 
-![购买Poe帐号第三步：填写星际放映厅优惠码“ANYOFAI”并点击“支付订单”](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85-3.png)
+![购买Poe账号第三步：填写星际放映厅优惠码“ANYOFAI”并点击“支付订单”](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85-3.png)
 
 OK，接下来按照系统提示完成订单支付，星际放映厅将为你提供一个已经完成充值的Poe会员账号。你只需使用该账号进行登录，就能立即体验Poe的全部功能。如果在后续使用Poe的过程中遇到任何问题，你都可以随时联系星际放映厅的在线客服，他们将为你提供及时而专业的解答与支持。
 
