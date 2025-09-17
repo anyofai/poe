@@ -1,6 +1,6 @@
 # 最新Poe订阅教程：2025年国内如何充值购买Poe账号？支持GPT-5、GPT-4o、Claude Opus 4.1、Claude Sonnet 4、Grok-4、Gemini-2.5 Pro等顶尖大模型！
 
-<p align="center">最近更新于：2025年9月2日</p>
+<p align="center">最近更新于：2025年9月17日</p>
 
 ![最新Poe订阅教程：2025年国内如何充值购买Poe账号？支持GPT-5、GPT-4o、Claude Opus 4.1、Claude Sonnet 4、Grok-4、Gemini-2.5 Pro等顶尖大模型！](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85.png)
 
