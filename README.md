@@ -1,8 +1,8 @@
-# 最新Poe订阅教程：2025年国内如何充值购买Poe账号？支持GPT-5、GPT-4o、Claude Opus 4.1、Claude Sonnet 4、Grok-4、Gemini-2.5 Pro等顶尖大模型！
+# 最新Poe订阅教程：2025年国内如何充值购买Poe账号？支持GPT-5.1、GPT-4o、Claude Opus 4.1、Claude 4.5 Sonnet、Grok-4、Gemini-2.5 Pro等顶尖大模型！
 
 <p align="center">最近更新于：2025年11月14日</p>
 
-![最新Poe订阅教程：2025年国内如何充值购买Poe账号？支持GPT-5、GPT-4o、Claude Opus 4.1、Claude Sonnet 4、Grok-4、Gemini-2.5 Pro等顶尖大模型！](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85.png)
+![最新Poe订阅教程：2025年国内如何充值购买Poe账号？支持GPT-5.1、GPT-4o、Claude Opus 4.1、Claude 4.5 Sonnet、Grok-4、Gemini-2.5 Pro等顶尖大模型！](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85.png)
 
 如果你在工作中需要频繁使用ChatGPT、Claude、Gemini、Grok等AI工具，或者你想要体验目前所有主流的AI模型，那么现在你只需订阅一个Poe会员，然后就可以在同一个平台上自由使用GPT-5、GPT-4o、Claude Opus 4.1、Claude Sonnet 4、Grok-4和Gemini-2.5 Pro等当下全球最先进的大模型了。当订阅Poe会员后，你不仅无需在多个AI工具之间频繁切换账号，还能同时节省大量原本需要分别支付给各大AI工具的订阅费用，从而以更低的成本获得更高效、更便捷的使用体验。接下来，我们将为大家详细解答Poe是做什么的、Poe订阅价格是多少，以及国内如何充值购买Poe账号等问题。
 
