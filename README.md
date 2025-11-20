@@ -1,10 +1,10 @@
-# 最新Poe订阅教程：2025年国内如何充值购买Poe账号？支持GPT-5.1、GPT-4o、Claude Opus 4.1、Claude 4.5 Sonnet、Grok-4、Gemini-2.5 Pro等顶尖大模型！
+# 最新Poe订阅教程：2025年国内如何充值购买Poe账号？支持GPT-5.1、GPT-4o、Claude Opus 4.1、Claude 4.5 Sonnet、Grok-4.1、Gemini-3 Pro等顶尖大模型！
 
-<p align="center">最近更新于：2025年11月14日</p>
+<p align="center">最近更新于：2025年11月20日</p>
 
-![最新Poe订阅教程：2025年国内如何充值购买Poe账号？支持GPT-5.1、GPT-4o、Claude Opus 4.1、Claude 4.5 Sonnet、Grok-4、Gemini-2.5 Pro等顶尖大模型！](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85.png)
+![最新Poe订阅教程：2025年国内如何充值购买Poe账号？支持GPT-5.1、GPT-4o、Claude Opus 4.1、Claude 4.5 Sonnet、Grok-4.1、Gemini-3 Pro等顶尖大模型！](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85.png)
 
-如果你在工作中需要频繁使用ChatGPT、Claude、Gemini、Grok等AI工具，或者你想要体验目前所有主流的AI模型，那么现在你只需订阅一个Poe会员，然后就可以在同一个平台上自由使用GPT-5.1、GPT-4o、Claude Opus 4.1、Claude 4.5 Sonnet、Grok-4和Gemini-2.5 Pro等当下全球最先进的大模型了。当订阅Poe会员后，你不仅无需在多个AI工具之间频繁切换账号，还能同时节省大量原本需要分别支付给各大AI工具的订阅费用，从而以更低的成本获得更高效、更便捷的使用体验。接下来，我们将为大家详细解答Poe是做什么的、Poe订阅价格是多少，以及国内如何充值购买Poe账号等问题。
+如果你在工作中需要频繁使用ChatGPT、Claude、Gemini、Grok等AI工具，或者你想要体验目前所有主流的AI模型，那么现在你只需订阅一个Poe会员，然后就可以在同一个平台上自由使用GPT-5.1、GPT-4o、Claude Opus 4.1、Claude 4.5 Sonnet、Grok-4.1和Gemini-3 Pro等当下全球最先进的大模型了。当订阅Poe会员后，你不仅无需在多个AI工具之间频繁切换账号，还能同时节省大量原本需要分别支付给各大AI工具的订阅费用，从而以更低的成本获得更高效、更便捷的使用体验。接下来，我们将为大家详细解答Poe是做什么的、Poe订阅价格是多少，以及国内如何充值购买Poe账号等问题。
 
 <blockquote>
 
@@ -50,11 +50,11 @@ OK，接下来按照系统提示完成订单支付，星际放映厅将为你提
 
 ### Poe是什么？
 
-Poe是由Quora推出的一款人工智能聊天平台，其名字来源于“Platform of Engagement”，旨在为用户提供一个一站式的AI互动平台。Poe集成了众多AI工具，包括ChatGPT、Claude、Gemini、DeepSeek、Grok、Llama、Mistral等。通过订阅Poe会员，用户可以自由使用GPT-5.1、GPT-4o、Claude Opus 4.1、Claude 4.5 Sonnet、Grok-4、Gemini-2.5 Pro、DeepSeek-R1等当今全球最先进的AI大模型，并且Poe账号被封的概率非常低。
+Poe是由Quora推出的一款人工智能聊天平台，其名字来源于“Platform of Engagement”，旨在为用户提供一个一站式的AI互动平台。Poe集成了众多AI工具，包括ChatGPT、Claude、Gemini、DeepSeek、Grok、Llama、Mistral等。通过订阅Poe会员，用户可以自由使用GPT-5.1、GPT-4o、Claude Opus 4.1、Claude 4.5 Sonnet、Grok-4.1、Gemini-3 Pro、DeepSeek-R1等当今全球最先进的AI大模型，并且Poe账号被封的概率非常低。
 
 与传统的AI工具相比，Poe最大的优势在于其一站式服务能力和多模型集成。用户不仅可以免费体验多个基础AI模型，还能通过订阅会员解锁更高性能的服务。在Poe的平台上，用户可以在一个简洁统一的界面中轻松切换不同的AI模型，无需分别访问多个服务商或平台，大大简化了使用流程。此外，Poe还支持用户自定义机器人，允许根据需求调整机器人的行为和响应，从而满足更加个性化的使用场景。Poe的核心优势包括：
 
-* 多种AI模型集成：Poe整合了多个顶尖AI模型，用户可以在不同模型之间自由切换，并直接比较它们的回答效果。比如，ChatGPT更擅长创意写作和内容生成，Claude在逻辑推理与总结分析方面表现突出，DeepSeek-R1在复杂推理任务上拥有优势，而Gemini 2.5 Pro则在多模态处理上能力更强。
+* 多种AI模型集成：Poe整合了多个顶尖AI模型，用户可以在不同模型之间自由切换，并直接比较它们的回答效果。比如，ChatGPT更擅长创意写作和内容生成，Claude在逻辑推理与总结分析方面表现突出，DeepSeek-R1在复杂推理任务上拥有优势，而Gemini 3 Pro则在多模态处理上能力更强。
 
 * 统一的用户界面：Poe提供简洁直观的操作界面，无论是初学者还是有经验的用户，都能够轻松上手，与多个AI模型进行实时交互。界面设计清晰合理，学习成本低，几乎没有额外的使用门槛。
 
@@ -70,7 +70,7 @@ Poe是由Quora推出的一款人工智能聊天平台，其名字来源于“Pla
 
 Poe确实可以免费使用。Poe目前提供免费版和付费版两种模式，其中免费版能够为用户提供基础的AI服务，但存在一定限制，适合想要初步体验Poe功能的用户。
 
-在Poe的免费模式下，用户可以访问多个知名模型，包括ChatGPT、Claude、DeepSeek、Grok和Gemini等。不过，免费用户在调用高级模型时会受到次数限制，例如每天只能使用GPT-5.1、GPT-4o、Claude Opus 4.1、Claude 4.5 Sonnet、Grok-4或Gemini-2.5 Pro有限的几次。如果需要更频繁地调用这些顶级模型，或者希望解锁更多功能，就需要订阅Poe会员。
+在Poe的免费模式下，用户可以访问多个知名模型，包括ChatGPT、Claude、DeepSeek、Grok和Gemini等。不过，免费用户在调用高级模型时会受到次数限制，例如每天只能使用GPT-5.1、GPT-4o、Claude Opus 4.1、Claude 4.5 Sonnet、Grok-4.1或Gemini-3 Pro有限的几次。如果需要更频繁地调用这些顶级模型，或者希望解锁更多功能，就需要订阅Poe会员。
 
 Poe采用积分制度来管理使用量。免费用户每天会获得固定的3000积分，不同模型的调用会消耗不同额度的积分。例如，调用高级模型（如GPT-5.1和Claude Opus 4.1）会消耗较多积分，而使用基础模型（如GPT-3.5）则相对节省，每次通常只需消耗约20积分。需要注意的是，Poe的积分会在每天凌晨自动清零，未使用的部分不会累计到第二天，因此用户需要合理安排使用。
 
@@ -125,7 +125,7 @@ Poe和ChatGPT各有特点，适合的用户群体也有所不同。ChatGPT是由
 * <a href="https://github.com/anyofai/midjourney">Midjourney订阅</a>：如何购买Midjourney原生独立账号？如何代充Midjourney会员？
 * <a href="https://github.com/anyofai/x-twitter">SuperGrok订阅</a>：如何合租SuperGrok会员？如何购买SuperGrok账号？如何代充SuperGrok会员？
 
-* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-5.1、DeepSeek-R1、Grok-4和Gemini-2.5 Pro等大模型！每月仅需27元！
+* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-5.1、DeepSeek-R1、Grok-4.1和Gemini-3 Pro等大模型！每月仅需27元！
 * <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！价格低至14元起！
 * <a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>：提供国内镜像直连、官方标准会员合租、官方Pro会员合租等三种服务！每月仅需27元！
 * <a href="https://github.com/anyofai/netflix-hezu">Netflix奈飞合租</a>：提供独立子账号、支持设置pin码，可访问Netflix全球影视资源，全程质保，价格低至8元起！
