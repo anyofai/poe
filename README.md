@@ -1,6 +1,6 @@
 # 最新Poe订阅教程：2025年国内如何充值购买Poe账号？支持GPT-5.1、GPT-4o、Claude Opus 4.1、Claude 4.5 Sonnet、Grok-4.1、Gemini-3 Pro等顶尖大模型！
 
-<p align="center">最近更新于：2025年11月20日</p>
+<p align="center">最近更新于：2025年11月26日</p>
 
 ![最新Poe订阅教程：2025年国内如何充值购买Poe账号？支持GPT-5.1、GPT-4o、Claude Opus 4.1、Claude 4.5 Sonnet、Grok-4.1、Gemini-3 Pro等顶尖大模型！](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85.png)
 
@@ -124,7 +124,8 @@ Poe和ChatGPT各有特点，适合的用户群体也有所不同。ChatGPT是由
 * <a href="https://github.com/anyofai/claude-pro">Claude Pro订阅</a>：如何注册Claude账号？如何购买/合租/代充Claude Pro会员？含Claude Code国内使用教程！
 * <a href="https://github.com/anyofai/midjourney">Midjourney订阅</a>：如何购买Midjourney原生独立账号？如何代充Midjourney会员？
 * <a href="https://github.com/anyofai/x-twitter">SuperGrok订阅</a>：如何合租SuperGrok会员？如何购买SuperGrok账号？如何代充SuperGrok会员？
-
+* <a href="https://github.com/anyofai/gemini-pro">Gemini Pro购买</a>：如何购买Gemini Pro账号？如何合租Gemini Pro会员？如何为Gemini Pro代充值？
+* 
 * <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-5.1、DeepSeek-R1、Grok-4.1和Gemini-3 Pro等大模型！每月仅需27元！
 * <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！价格低至14元起！
 * <a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>：提供国内镜像直连、官方标准会员合租、官方Pro会员合租等三种服务！每月仅需27元！
