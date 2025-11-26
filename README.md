@@ -1,10 +1,10 @@
-# 最新Poe订阅教程：2025年国内如何充值购买Poe账号？支持GPT-5.1、GPT-4o、Claude Opus 4.1、Claude 4.5 Sonnet、Grok-4.1、Gemini-3 Pro等顶尖大模型！
+# 最新Poe订阅教程：2025年国内如何充值购买Poe账号？支持GPT-5.1、GPT-4o、Claude Opus 4.5、Claude 4.5 Sonnet、Grok-4.1、Gemini-3 Pro等顶尖大模型！
 
 <p align="center">最近更新于：2025年11月26日</p>
 
-![最新Poe订阅教程：2025年国内如何充值购买Poe账号？支持GPT-5.1、GPT-4o、Claude Opus 4.1、Claude 4.5 Sonnet、Grok-4.1、Gemini-3 Pro等顶尖大模型！](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85.png)
+![最新Poe订阅教程：2025年国内如何充值购买Poe账号？支持GPT-5.1、GPT-4o、Claude Opus 4.5、Claude 4.5 Sonnet、Grok-4.1、Gemini-3 Pro等顶尖大模型！](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85.png)
 
-如果你在工作中需要频繁使用ChatGPT、Claude、Gemini、Grok等AI工具，或者你想要体验目前所有主流的AI模型，那么现在你只需订阅一个Poe会员，然后就可以在同一个平台上自由使用GPT-5.1、GPT-4o、Claude Opus 4.1、Claude 4.5 Sonnet、Grok-4.1和Gemini-3 Pro等当下全球最先进的大模型了。当订阅Poe会员后，你不仅无需在多个AI工具之间频繁切换账号，还能同时节省大量原本需要分别支付给各大AI工具的订阅费用，从而以更低的成本获得更高效、更便捷的使用体验。接下来，我们将为大家详细解答Poe是做什么的、Poe订阅价格是多少，以及国内如何充值购买Poe账号等问题。
+如果你在工作中需要频繁使用ChatGPT、Claude、Gemini、Grok等AI工具，或者你想要体验目前所有主流的AI模型，那么现在你只需订阅一个Poe会员，然后就可以在同一个平台上自由使用GPT-5.1、GPT-4o、Claude Opus 4.5、Claude 4.5 Sonnet、Grok-4.1和Gemini-3 Pro等当下全球最先进的大模型了。当订阅Poe会员后，你不仅无需在多个AI工具之间频繁切换账号，还能同时节省大量原本需要分别支付给各大AI工具的订阅费用，从而以更低的成本获得更高效、更便捷的使用体验。接下来，我们将为大家详细解答Poe是做什么的、Poe订阅价格是多少，以及国内如何充值购买Poe账号等问题。
 
 <blockquote>
 
@@ -50,7 +50,7 @@ OK，接下来按照系统提示完成订单支付，星际放映厅将为你提
 
 ### Poe是什么？
 
-Poe是由Quora推出的一款人工智能聊天平台，其名字来源于“Platform of Engagement”，旨在为用户提供一个一站式的AI互动平台。Poe集成了众多AI工具，包括ChatGPT、Claude、Gemini、DeepSeek、Grok、Llama、Mistral等。通过订阅Poe会员，用户可以自由使用GPT-5.1、GPT-4o、Claude Opus 4.1、Claude 4.5 Sonnet、Grok-4.1、Gemini-3 Pro、DeepSeek-R1等当今全球最先进的AI大模型，并且Poe账号被封的概率非常低。
+Poe是由Quora推出的一款人工智能聊天平台，其名字来源于“Platform of Engagement”，旨在为用户提供一个一站式的AI互动平台。Poe集成了众多AI工具，包括ChatGPT、Claude、Gemini、DeepSeek、Grok、Llama、Mistral等。通过订阅Poe会员，用户可以自由使用GPT-5.1、GPT-4o、Claude Opus 4.5、Claude 4.5 Sonnet、Grok-4.1、Gemini-3 Pro、DeepSeek-R1等当今全球最先进的AI大模型，并且Poe账号被封的概率非常低。
 
 与传统的AI工具相比，Poe最大的优势在于其一站式服务能力和多模型集成。用户不仅可以免费体验多个基础AI模型，还能通过订阅会员解锁更高性能的服务。在Poe的平台上，用户可以在一个简洁统一的界面中轻松切换不同的AI模型，无需分别访问多个服务商或平台，大大简化了使用流程。此外，Poe还支持用户自定义机器人，允许根据需求调整机器人的行为和响应，从而满足更加个性化的使用场景。Poe的核心优势包括：
 
@@ -64,15 +64,15 @@ Poe是由Quora推出的一款人工智能聊天平台，其名字来源于“Pla
 
 * 自定义机器人：Poe还允许用户创建个性化的机器人，可以为其设置特定的指令和行为模式，从而让AI更好地符合个人或团队的使用习惯，满足更加多样化的需求。
 
-对于中国用户而言，Poe的优势更加明显。当订阅Poe会员后，用户不仅可以同时使用GPT-5.1和Claude 4.1 Opus等顶级模型，而无需再单独开通ChatGPT Plus或Claude Pro会员，还能够避免频繁切换账号以及多次支付所带来的麻烦。
+对于中国用户而言，Poe的优势更加明显。当订阅Poe会员后，用户不仅可以同时使用GPT-5.1和Claude Opus 4.5等顶级模型，而无需再单独开通ChatGPT Plus或Claude Pro会员，还能够避免频繁切换账号以及多次支付所带来的麻烦。
 
 ### Poe可以免费使用吗？
 
 Poe确实可以免费使用。Poe目前提供免费版和付费版两种模式，其中免费版能够为用户提供基础的AI服务，但存在一定限制，适合想要初步体验Poe功能的用户。
 
-在Poe的免费模式下，用户可以访问多个知名模型，包括ChatGPT、Claude、DeepSeek、Grok和Gemini等。不过，免费用户在调用高级模型时会受到次数限制，例如每天只能使用GPT-5.1、GPT-4o、Claude Opus 4.1、Claude 4.5 Sonnet、Grok-4.1或Gemini-3 Pro有限的几次。如果需要更频繁地调用这些顶级模型，或者希望解锁更多功能，就需要订阅Poe会员。
+在Poe的免费模式下，用户可以访问多个知名模型，包括ChatGPT、Claude、DeepSeek、Grok和Gemini等。不过，免费用户在调用高级模型时会受到次数限制，例如每天只能使用GPT-5.1、GPT-4o、Claude Opus 4.5、Claude 4.5 Sonnet、Grok-4.1或Gemini-3 Pro有限的几次。如果需要更频繁地调用这些顶级模型，或者希望解锁更多功能，就需要订阅Poe会员。
 
-Poe采用积分制度来管理使用量。免费用户每天会获得固定的3000积分，不同模型的调用会消耗不同额度的积分。例如，调用高级模型（如GPT-5.1和Claude Opus 4.1）会消耗较多积分，而使用基础模型（如GPT-3.5）则相对节省，每次通常只需消耗约20积分。需要注意的是，Poe的积分会在每天凌晨自动清零，未使用的部分不会累计到第二天，因此用户需要合理安排使用。
+Poe采用积分制度来管理使用量。免费用户每天会获得固定的3000积分，不同模型的调用会消耗不同额度的积分。例如，调用高级模型（如GPT-5.1和Claude Opus 4.5）会消耗较多积分，而使用基础模型（如GPT-3.5）则相对节省，每次通常只需消耗约20积分。需要注意的是，Poe的积分会在每天凌晨自动清零，未使用的部分不会累计到第二天，因此用户需要合理安排使用。
 
 总体来看，Poe的免费版为普通用户提供了一个低门槛的体验入口，非常适合轻度需求或刚开始接触AI工具的人群。如果需要更高频率的调用次数，或者想要解锁完整功能，订阅Poe会员会是更合适的选择。
 
@@ -92,7 +92,7 @@ Poe提供按月和按年两种订阅方式，用户可以根据实际需求灵�
 
 * 等待积分自动重置：Poe免费版的积分会在每天凌晨自动重置。这意味着，即使当天的积分已经用完，只需等待到第二天，就能再次获得新的积分。这种方式适合需求不紧急的用户，既简单又无需额外操作。
 
-* 合理规划积分使用：不同模型的积分消耗存在差异。调用GPT-5.1、Claude Opus 4.1等高级模型会消耗更多积分，而使用GPT-3.5等基础模型则相对节省，每次调用仅需消耗少量积分。如果发现积分不足，可以优先选择基础模型，并控制调用频率，从而延长每天免费积分的使用时间。
+* 合理规划积分使用：不同模型的积分消耗存在差异。调用GPT-5.1、Claude Opus 4.5等高级模型会消耗更多积分，而使用GPT-3.5等基础模型则相对节省，每次调用仅需消耗少量积分。如果发现积分不足，可以优先选择基础模型，并控制调用频率，从而延长每天免费积分的使用时间。
 
 * 升级成为Poe会员：如果你需要频繁调用高级模型，或者依赖Poe来完成复杂任务，那么升级为会员是最直接的解决办法。成为Poe会员后，积分限制将不再存在，你还可以获得更高的响应速度和更完整的功能体验。对于长期使用AI工具的用户来说，这是最理想的选择。
 
