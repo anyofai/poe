@@ -1,6 +1,6 @@
 # 最新Poe订阅教程：2025年国内如何充值购买Poe账号？支持GPT-5.1、GPT-4o、Claude Opus 4.5、Claude 4.5 Sonnet、Grok-4.1、Gemini-3 Pro等顶尖大模型！
 
-<p align="center">最近更新于：2025年11月29日</p>
+<p align="center">最近更新于：2025年12月4日</p>
 
 ![最新Poe订阅教程：2025年国内如何充值购买Poe账号？支持GPT-5.1、GPT-4o、Claude Opus 4.5、Claude 4.5 Sonnet、Grok-4.1、Gemini-3 Pro等顶尖大模型！](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85.png)
 
@@ -138,3 +138,5 @@ Poe和ChatGPT各有特点，适合的用户群体也有所不同。ChatGPT是由
 * <a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>：提供纯人工充值服务，价格实惠，24小时在线客服，独享Claude Pro原生账号！
 * <a href="https://github.com/anyofai/nf-video">银河录像局</a>：最靠谱的AI工具和流媒体合租平台！使用优惠码ANYOFAI可享九折优惠！
 * <a href="https://github.com/anyofai/video-site">国外视频网站</a>：本文将会推荐五个国外付费视频网站、五个国外免费视频网站和十个海外免费电影网站！
+
+免责声明：本项目内容仅供信息参考，请遵守相关法律法规及各平台使用条款，所有操作与后果由用户自行承担。
