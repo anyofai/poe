@@ -1,8 +1,8 @@
-# 最新Poe订阅教程：2025年国内如何充值购买Poe账号？支持GPT-5.2、GPT-4o、Claude Opus 4.5、Claude 4.5 Sonnet、Grok-4.1、Gemini-3 Pro等顶尖大模型！
+# 最新Poe订阅教程：2026年国内如何充值购买Poe账号？支持GPT-5.2、GPT-4o、Claude Opus 4.5、Claude 4.5 Sonnet、Grok-4.1、Gemini-3 Pro等顶尖大模型！
 
-<p align="center">最近更新于：2025年12月12日</p>
+<p align="center">最近更新于：2026年1月5日</p>
 
-![最新Poe订阅教程：2025年国内如何充值购买Poe账号？支持GPT-5.2、GPT-4o、Claude Opus 4.5、Claude 4.5 Sonnet、Grok-4.1、Gemini-3 Pro等顶尖大模型！](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85.png)
+![最新Poe订阅教程：2026年国内如何充值购买Poe账号？支持GPT-5.2、GPT-4o、Claude Opus 4.5、Claude 4.5 Sonnet、Grok-4.1、Gemini-3 Pro等顶尖大模型！](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85.png)
 
 如果你在工作中需要频繁使用ChatGPT、Claude、Gemini、Grok等AI工具，或者你想要体验目前所有主流的AI模型，那么现在你只需订阅一个Poe会员，然后就可以在同一个平台上自由使用GPT-5.2、GPT-4o、Claude Opus 4.5、Claude 4.5 Sonnet、Grok-4.1和Gemini-3 Pro等当下全球最先进的大模型了。当订阅Poe会员后，你不仅无需在多个AI工具之间频繁切换账号，还能同时节省大量原本需要分别支付给各大AI工具的订阅费用，从而以更低的成本获得更高效、更便捷的使用体验。接下来，我们将为大家详细解答Poe是做什么的、Poe订阅价格是多少，以及国内如何充值购买Poe账号等问题。
 
@@ -12,7 +12,7 @@
 
 </blockquote>
 
-## 2025年国内如何充值购买Poe账号？
+## 2026年国内如何充值购买Poe账号？
 
 对于中国用户来说，如果想要订阅Poe会员，首先需要准备一张海外虚拟信用卡，然后再使用该卡充值Poe会员。然而，自从WildCard野卡等虚拟信用卡在2025年7月被迫停止运营之后，目前市面上已经没有一款真正安全可靠的虚拟信用卡可供选择。因此，现在国内用户若想开通Poe会员，就只能通过“<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>”这个专业第三方平台来购买Poe账号了。
 
@@ -137,6 +137,6 @@ Poe和ChatGPT各有特点，适合的用户群体也有所不同。ChatGPT是由
 * <a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>：推荐最稳定可靠的ChatGPT Plus代充值平台，价格优惠，信誉有保障。
 * <a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>：提供纯人工充值服务，价格实惠，24小时在线客服，独享Claude Pro原生账号！
 * <a href="https://github.com/anyofai/nf-video">银河录像局</a>：最靠谱的AI工具和流媒体合租平台！使用优惠码ANYOFAI可享九折优惠！
-* <a href="https://github.com/anyofai/video-site">国外视频网站</a>：本文将会为大家推荐十个2025年国外最受欢迎的视频网站！
+* <a href="https://github.com/anyofai/video-site">国外视频网站</a>：本文将会为大家推荐十个2026年国外最受欢迎的视频网站！
 
 免责声明：本项目内容仅供信息参考，请遵守相关法律法规及各平台使用条款，所有操作与后果由用户自行承担。
