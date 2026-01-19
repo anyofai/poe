@@ -8,7 +8,7 @@
 
 <blockquote>
 
-注意：如果你想单独订阅ChatGPT Plus会员或Claude Pro会员，请参考<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus购买</a>或<a href="https://github.com/anyofai/claude-pro">Claude账号购买</a>等教程。目前，**购买ChatGPT Plus原生独立账号的价格为147元/月，为已有的ChatGPT账号代充值的价格为148元/月，而合租ChatGPT Plus会员的价格低至26元/月**。
+注意：如果你想单独订阅ChatGPT Plus会员或Claude Pro会员，请参考<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus购买</a>或<a href="https://github.com/anyofai/claude-pro">Claude账号购买</a>等教程。目前，**购买ChatGPT Plus独立账号的价格为147元/月，为已有的ChatGPT账号代充值的价格为148元/月，而合租ChatGPT Plus会员的价格低至26元/月**。
 
 </blockquote>
 
