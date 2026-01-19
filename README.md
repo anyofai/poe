@@ -30,11 +30,11 @@
 
 * 星际放映厅官网：<a href="https://www.naifeistation.com/i/3wLPME">https://www.naifeistation.com/i/3wLPME</a>
 
-![订阅Poe会员第一步：打开星际放映厅官网，使用手机号完成账号注册](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85-1.png)
+![购买Poe账号第一步：打开星际放映厅官网，使用手机号完成账号注册](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85-1.png)
 
 ### 第二步：在星际放映厅官网首页，依次点击“AI工具箱”和“POE”。
 
-![充值Poe会员第二步：在星际放映厅官网首页，依次点击“AI工具箱”和“POE”](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85-2.png)
+![购买Poe账号第二步：在星际放映厅官网首页，依次点击“AI工具箱”和“POE”](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85-2.png)
 
 ### 第三步：填写星际放映厅优惠码“ANYOFAI”并点击“支付订单”。
 
